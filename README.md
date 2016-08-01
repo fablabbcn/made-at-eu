@@ -32,6 +32,17 @@ Feeling Responsive is heavily customizable.
 
 **[More ›][3]**
 
+## Install and run
+
+### For development
+
+First install Gemfile dependencies
+
+`bundle install` 
+
+Then run Jekyll with dev configuration
+
+`jekyll serve --config _config.yml,_config_dev.yml`
 
 
 ## Changelog
@@ -47,7 +58,6 @@ Feeling Responsive is heavily customizable.
 Click the image to [watch the YouTube-Video-Tutorial][4].
 
 [![Start Video](https://github.com/Phlow/feeling-responsive/blob/gh-pages/images/video-feeling-responsive-tutorial-frontpage.jpg)](https://www.youtube.com/watch?v=rLS-BEvlEyY)
-
 
 
 
