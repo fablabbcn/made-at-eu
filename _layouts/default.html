@@ -1,23 +1,32 @@
----
-layout: compress
----
-<!doctype html>
-<html class="no-js" lang="{% if site.language == nil %}en{% else %}{{ site.language }}{% endif %}">
-<head>
-	{% include _head.html %}
-</head>
-<body id="top-of-page" class="{{ page.format }}">
-	{% unless page.skip_boilerplate %}
-	{% include _navigation.html %}
-	{% endunless %}
+<!DOCTYPE html>
+<html>
 
-	{% include _masthead.html %}
-	{{ content }}
+  {% include head.html %}
 
-	{% unless page.skip_boilerplate %}
-	{% include _footer.html %}
-	{% endunless %}
 
-	{% include _footer_scripts.html %}
-</body>
+    <body id="page-top" class="index">
+
+    {% include header.html %}
+    {% include what.html %} 
+    {% include fabcity.html %} 
+    {% include roadmap.html %}
+    {% include blog-entries.html %}
+    {% include get-involved.html %}
+    {% include partners.html %}
+    {% include contact.html %}
+    {% include footer.html %}
+    {% include modals.html %}
+    {% include js.html %}
+
+    </body>
+    <script>
+      window.pause = false;
+
+      window.pulseIcon = L.icon({
+        iconUrl: 'labmap.png',
+        iconSize:     [5, 5], // size of the icon
+        iconAnchor:   [2, 2], // point of the icon which will correspond to marker's location
+        popupAnchor:  [0, 0] // point from which the popup should open relative to the iconAnchor
+      })
+    </script>
 </html>

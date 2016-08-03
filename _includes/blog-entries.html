@@ -1,0 +1,114 @@
+<!-- Blog Entries Section -->
+
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+
+<script src="https://storage.googleapis.com/feednami-static/js/feednami-client-v1.0.1.js"></script>
+
+
+
+<script>
+
+function formatDate(date){
+  var year = date.getYear()
+  if(year < 1900){
+    year += 1900
+  }
+  var month = date.getMonth()+1
+  var day = date.getDate()
+  var hour = date.getHours()
+  var minutes = date.getMinutes()
+  return year + '/' + month + '/' + day + ' '
+}
+
+function loadEntries(url,id){
+
+  FEED_URL = url;
+  var blogDiv = $(id);
+  $.get(FEED_URL, function (data) {
+    $(data).find("entry").each(function () {
+      $('.loading').remove();
+      var entry = $(this);
+      var div = document.createElement('div');
+      div.setAttribute('class','entry');
+      div.innerHTML = '<p class="title"><a href="'
+                    + entry.find("link")[0].attributes[0].value
+                    + '" target="_blank">'
+                    + entry.find("title").text()
+                    + '</a></p>'
+                    + '<p class="content">'
+                    + entry.find("quote").text()
+                    + '</p>'
+                    + '<p class="date">'
+                    + formatDate(new Date(entry.find("updated").text()))
+                    + '</p>';
+      blogDiv.append(div);
+    });
+  });
+
+}
+
+window.onload = function(){
+  loadEntries('http://blog.api.fab.city/atom.xml','#fabfeed');
+}
+
+</script>
+
+
+
+<section id="blog-entries" style="padding-bottom:50px; background-color:#eee">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <div class="margen-blog">
+                        <h2 class="section-heading"> Latest News</h2>
+
+
+                            <div style="position: relative; padding-bottom: 20px" >
+                                 <h4 class="section-subheading text-muted">From our Fab City Blog</h4>
+                            </div>
+
+                            <div class="feeds">
+
+                                  <div id="fabfeed" class="feed blog">
+                                    <!--<div class="header">Fab City</div> -->
+                                    <div class="loading">Loading...</div>
+                                  </div>
+
+
+
+                            </div>
+
+                            <!--OJO!   Formato en caso de  podcast
+
+                            <div class="feed-group-header">
+                              <span class="text">Podcasts</span>
+                            </div>
+                            <div class="feeds">
+                              <div id="jjho" class="feed podcast">
+                                <div class="header">Judge John Hodgman</div>
+                                <div class="loading">Loading...</div>
+                              </div>
+                              <div id="rebuildfm" class="feed podcast">
+                                <div class="header">Rebuild</div>
+                                <div class="loading">Loading...</div>
+                              </div>
+                            </div> -->
+
+
+
+                            <a href="https://blog.fab.city" target="_blank">
+                                <div class="portfolio-hover">
+                                    <div class="portfolio-hover-content">
+                                        <!--<i class="fa fa-plus fa-3x"></i>-->
+                                        <h4 class="more-news">More news!</h4>
+                                    </div>
+                                </div>
+                            </a>
+
+                    </div>
+                </div>
+            </div>
+
+
+</section>
