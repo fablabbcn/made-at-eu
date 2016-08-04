@@ -6,7 +6,7 @@
 
  body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
 }
 
 .text-muted {
@@ -120,25 +120,29 @@ fieldset[disabled] .btn-primary.active {
 }
 
 .btn-xl {
-    padding: 10px 20px;
-    border-color: #{{ site.color.primary }};
-    border-radius: 3px;
+    padding: 14px 26px; 
+    border-radius: 0;
     text-transform: uppercase;
+    text-align: right;
     font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-size: 12px;
+    font-size: 13px;
+    line-height: 18px;
     font-weight: 700;
-    color: #fff;
-    background-color: #{{ site.color.primary }};
+    color: #000000;
+    background-color: #f7ef01; 
 }
+
+
 
 .btn-xl:hover,
 .btn-xl:focus,
 .btn-xl:active,
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
-    border-color: #{{ site.color.primary }};
+
+    background-color: #000000;
+    /*border-color: #{{ site.color.primary }};*/
     color: #fff;
-    background-color: #{{ site.color.secondary }};
 }
 
 .btn-xl:active,
@@ -294,6 +298,7 @@ fieldset[disabled] .btn-xl.active {
     font-weight: 800;
     letter-spacing: 1px;
     color: #000000;
+
 }
 
 @media(min-width:992px) {
@@ -306,7 +311,8 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default .nav li a:hover,
 .navbar-default .nav li a:focus {
     outline: 0;
-    color: #{{ site.color.primary }};
+    /*color: #{{ site.color.primary }};*/
+    text-decoration: underline;
 }
 
 .navbar-default .navbar-nav>.active>a {
@@ -339,7 +345,7 @@ fieldset[disabled] .btn-xl.active {
     }
 
     .navbar-default .navbar-nav>.active>a {
-        border-radius: 3px;
+        /*border-radius: 3px; */
     }
 
     .navbar-default.navbar-shrink {
@@ -409,9 +415,10 @@ header .header-about {
 
 
 header .intro-text {
-    padding-top: 100px;
-    padding-bottom: 50px;
+    padding-top: 0px;
+    padding-bottom: 0px;
     text-align: right;
+    height:100vh;
 }
 
 header .intro-text-faq {
@@ -470,19 +477,13 @@ header .intro-text-faq .intro-heading-sub {
 }
 
 
-@media(min-width:992px) {
-
-    .btn-xl {
-    /*padding: 20px 40px;
-    font-size: 18px;*/
-    padding: 13px 26px;
-    font-size: 16px;
-}
-
+/*repetido?
 header .intro-text {
-    padding-top: 300px;
-    padding-bottom: 200px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    height: 100vh;
 }
+*/
 
 header .intro-text .intro-lead-in {
     margin-bottom: 0;
@@ -1372,12 +1373,12 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    background: #{{ site.color.primary }};
+    /*background: #{{ site.color.primary }};*/
 }
 
 ::selection {
     text-shadow: none;
-    background: #{{ site.color.primary }};
+    /*background: #{{ site.color.primary }};*/
 }
 
 img::selection {
