@@ -7,9 +7,10 @@
  .col-md-4 {
 
     background: #f7ef01;
-    border-color: chocolate;
-    border: solid;
+   /* border-color: chocolate;
+    border: solid;  */
     height: 300px;
     padding: 0px;
+  
 
 }
