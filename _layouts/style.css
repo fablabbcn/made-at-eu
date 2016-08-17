@@ -718,8 +718,13 @@ h4.service-heading-blog {
     line-height:300px; 
     text-align: center;     
     vertical-align: middle;
-    opacity: 1;
+    /*opacity: 1;*/
 }
+
+.mosaic-title a{
+    text-decoration: none;
+    color: #333;
+    }
 
 .mosaic-subtitle{
     font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -729,9 +734,20 @@ h4.service-heading-blog {
     line-height:300px; 
     text-align: center;     
     vertical-align: middle;
-    opacity: 1;
-    color: #ffffff;
+    /*opacity: 1;*/
+    
 }
+
+.mosaic-subtitle a:hover{
+    color: #ffffff;
+    }
+
+.mosaic-subtitle a{
+    text-decoration: none;
+    color: transparent;
+    }
+
+
 
 
 /*---FAQ SECTION--*/ 
