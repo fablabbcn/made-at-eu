@@ -7,7 +7,7 @@
       } else {
         $('#logo-navbar').removeClass('logo-max');
         $('#logo-navbar').addClass('logo-navbar-min');
-        /*$('.logo-box img').attr('src', '/img/logo-min.png');*/
+       /* $('.logo-box img').attr('src', '/img/logo-min.png'); */
       }
     }); 
 
