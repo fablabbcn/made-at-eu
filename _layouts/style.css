@@ -3,6 +3,7 @@
 
 /*///////ADDITIONAL CSS ////////*/
 {% include additional_css/bootstrap.min.css %}
+{% include additional_css/font-awesome/font-awesome.min.css %}
 
 
 /*///////TEMPLATE CSS////////*/
@@ -728,7 +729,18 @@ h4.service-heading-blog {
     text-align: center;     
     vertical-align: middle;
     padding: 140px 50px 20px 20px;
+    text-align: right;
+}
 
+.mosaic-title-twitter{
+    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 16px;
+    width:100%;  
+    text-align: center;     
+    vertical-align: middle;
+    padding: 72px 50px 20px 20px;
+    text-align: right;
 }
 
 .row a{
