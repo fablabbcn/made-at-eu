@@ -530,11 +530,6 @@ section {
    padding: 150px 0px 0px 0px;
 }
 
-/*
-section#fabcity {
-    padding: 100px 0;
-}
-*/
 
 section h2.section-heading {
     margin-top: 0;
@@ -671,45 +666,13 @@ h4.learn-more {
 
 
 
-/*---GET INVOLVED SECTION (CONTENT MOSAIC)--*/ 
+/*---CONTENT MOSAIC SECTION--*/ 
 
-
-h4.service-heading {
-    margin: 15px 0;
-    text-transform: none;
-    text-align: center;
-}
-
-h4.service-heading-blog {
-    margin: 15px 0px 5px 0px;
-    text-transform: none;
-    text-align: left;
-    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
-    font-weight: 700;
-    font-size: 18px;
+section#content-mosaic {
+    padding: 100px 0px 0px 0px;
 }
 
 
-
-.work {
-
-    background-color: #2BB5E3;
-    height: 300px;
-    width: 100%;
-    /*text-align: center;
-    color: #000000;
-    background-attachment: scroll;
-    background-image: url(../img/mosaic/workshops-1.jpg);
-    background-position: center center;*/
-
-}
-
-.mosaic-opacity{
-    height:300px; 
-    background-color: #ffffff;
-    filter: alpha(opacity=50);
-    opacity: 0.5;
-}
 
 .mosaic-title{
     font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -769,6 +732,35 @@ h4.service-heading-blog {
     color: transparent;
     }
 
+
+
+h4.service-heading {
+    margin: 15px 0;
+    text-transform: none;
+    text-align: center;
+}
+
+h4.service-heading-blog {
+    margin: 15px 0px 5px 0px;
+    text-transform: none;
+    text-align: left;
+    font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+}
+
+
+/*---WHAT-FULL SECTION--*/ 
+
+section#what-full {
+    padding: 190px 0px 0px 0px;
+}
+
+.margen-what {
+   position: relative; 
+   padding-right: 5%; 
+   padding-left: 5%;
+}
 
 
 
@@ -1246,10 +1238,6 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url(../img/map-image.png);
-    background-position: center;
-    background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
