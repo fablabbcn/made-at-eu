@@ -14,14 +14,14 @@ color:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: github
-    url: http://github.com/fabcity
+  - title: flickr
+    url: https://www.flickr.com/photos/madeateu/
   - title: envelope
-    url: mailto:info@fab.city
+    url: mailto:info@fablabbcn.org
   - title: twitter
-    url: http://www.twitter.com/fabcityglobal
+    url: https://twitter.com/madeateu
   - title: facebook
-    url: http://www.facebook.com/fabcityglobal
+    url: https://www.facebook.com/madeat.eu/
 
     # Team names, titles and social links
     people:

@@ -1,46 +1,46 @@
-    <!-- Footer -->
-    <footer class="text-center">
-        <div class="footer-above">
-            <div class="container">
-                <div class="row">
-                    <div class="footer-col col-md-4">
-                        <h3>Location</h3>
-                        <p>Institute for Advanced Architecture of Catalonia</p>
-                        <p>Fab Lab Barcelona</p>
+<!-- Footer -->
+<footer class="text-center" style="background:#000;">
+    <div class="footer-above">
+        <div class="container">
+            <div class="row" >
+                <div class="footer-col col-md-4" style="background:#000; height: 250px;" >
+                    <h4 style="color:#ffffff; padding-top:20px; padding-bottom:20px; font-weight:400;">Location</h4>
+                    <p style="color:#ffffff;">Institute for Advanced Architecture of Catalonia</p>
+                    <p style="color:#ffffff;">Fab Lab Barcelona</p>
 
-                        <p>
-                            {% for adress in site.address %}
-                                {{ adress.line }} <br>
-		                    {% endfor %}
-                        </p>
-                    </div>
-                    <div class="footer-col col-md-4">
+                    <p style="color:#ffffff;">
+                        {% for adress in site.address %}
+                            {{ adress.line }} <br>
+	                    {% endfor %}
+                    </p>
+                </div>
+                <div class="footer-col col-md-4" style="background:#000; height: 250px;">
 
-                    </div>
-                    <div class="footer-col col-md-4">
-                        <h3>Powered By:</h3>
-                        <p><a href="http://fablabbcn.org" target="_blank">Fab Lab Barcelona</a></p>
-                        <p><a href="https://cba.mit.edu" target="_blank">MIT's CBA</a></p>
-                        <p><a href="https://iaac.net" target="_blank">IAAC</a></p>
-                        <p><a href="https://fabfoundation" target="_blank">Fab Foundation</a></p>
-                    </div>
+                </div>
+                <div class="footer-col col-md-4" style="background:#000; height: 250px;">
+                    <h4 style="color:#ffffff; padding-top:20px; padding-bottom:20px; font-weight:400;">Powered by</h4>
+                    <p><a href="http://fablabbcn.org" target="_blank" style="color:#ffffff;">Fab Lab Barcelona</a></p>
+                    <p><a href="https://ec.europa.eu/programmes/creative-europe/" target="_blank" style="color:#ffffff;">Creative Europe Programme</a></p>
+                    <p><a href="www.ensci.com/en/" target="_blank" style="color:#ffffff;">ENSCI</a></p>
+                    <p><a href="www.plymouthart.ac.uk/" target="_blank" style="color:#ffffff;">Plymouth College of Art</a></p>
                 </div>
             </div>
         </div>
-        <div class="footer-below">
-            <div class="container">
-                <div class="row">
-                    <div class="col-lg-12">
-                        Copyright &copy; {{ site.title }} 20{{ site.time | date: '%y' }}
-                    </div>
-                </div>
-            </div>
-        </div>
-    </footer>
-
-    <!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
-    <div class="scroll-top page-scroll visible-xs visble-sm">
-        <a class="btn btn-primary" href="#page-top">
-            <i class="fa fa-chevron-up"></i>
-        </a>
     </div>
+    <div class="footer-below">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12" style="padding-top: 20px; border-top: 1px solid; border-color: #ffffff">
+                   <p style="color:#ffffff;"> Copyright &copy; {{ site.title }} 20{{ site.time | date: '%y' }} </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+<!-- Scroll to Top Button (Only visible on small and extra-small screen sizes) -->
+<div class="scroll-top page-scroll visible-xs visble-sm">
+    <a class="btn btn-primary" href="#page-top">
+        <i class="fa fa-chevron-up"></i>
+    </a>
+</div>
