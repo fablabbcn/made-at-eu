@@ -2,16 +2,39 @@
 title: Made@Eu Residencies
 subtitle: 
 layout: posts
-modal-id: 1
 date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: residencies.jpg
+thumbnail: residencies-thumbnail.jpg
 alt: image-alt
 project-date: 
 client: 
 category: residencies
 description: 
 permalink: /residencies
+hasgallery1: true   
+gallerytitle: Barcelona Residency @Fab Lab Barcelona
+images:
+  - image_path: /img/mosaic/residencies_bcn.jpg
+    title: Barcelona
+  - image_path: /img/mosaic/exhibitions_bcn.jpg
+    title: Barcelona
+  - image_path: /img/mosaic/workshops_bcn.png
+    title: Barcelona
+hasgallery2: true        
+gallerytitle2: Plymouth Residency @Plymouth College of Arts   
+images2:
+  - image_path2: /img/mosaic/residencies_bcn.jpg
+    title: Barcelona
+  - image_path2: /img/mosaic/exhibitions_bcn.jpg
+    title: Barcelona
+  - image_path2: /img/mosaic/workshops_bcn.png
+    title: Barcelona
+hasgallery3: false    
+gallerytitle3:  
+images3:
+  - image_path3: 
+  - image_path3: 
+  - image_path3:    
 ---
 
 
@@ -25,4 +48,9 @@ Est ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne s
 
 Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
 
-Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.
+Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
+<br>
+
+{% include photo-gallery.html %}
+
+

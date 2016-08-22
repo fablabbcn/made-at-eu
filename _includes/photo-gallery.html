@@ -1,0 +1,30 @@
+<!-- Photo Gallery -->
+{% if page.hasgallery1 == true %}
+<h4> {{page.gallerytitle }} </h4>
+<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
+	{% for image in page.images %}
+	<div class="col-md-4" style="background-image: url({{ image.image_path }}); background-position: center center; background-attachment: scroll; background-size: cover;">
+	</div>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if page.hasgallery2 == true %}
+<h4> {{page.gallerytitle2 }} </h4>
+<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
+	{% for image in page.images2 %}
+	<div class="col-md-4" style="background-image: url({{ image.image_path2 }}); background-position: center center; background-attachment: scroll; background-size: cover;">
+	</div>
+    {% endfor %}
+</div>
+{% endif %}
+
+{% if page.hasgallery3 == true %}
+<h4> {{page.gallerytitle3 }} </h4>
+<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
+	{% for image in page.images3 %}
+	<div class="col-md-4" style="background-image: url({{ image.image_path3 }}); background-position: center center; background-attachment: scroll; background-size: cover;">
+	</div>
+    {% endfor %}
+</div>
+{% endif %}

@@ -1483,7 +1483,20 @@ body {
     font-size: 16px;
 }
 
+.contenido h4 {
+    text-align: left; 
+    padding-bottom: 10px;
 
+}
+
+
+
+#gallery {
+
+    width: 33%;
+    line-height: 0;
+
+ }
 
 
 
