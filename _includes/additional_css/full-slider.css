@@ -4,10 +4,6 @@
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap/blob/gh-pages/LICENSE)
  */
 
-html,
-body {
-    height: 100%;
-}
 
 .carousel,
 .item,
@@ -29,8 +25,4 @@ body {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-}
-
-footer {
-    margin: 50px 0;
 }
