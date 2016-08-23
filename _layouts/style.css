@@ -4,6 +4,7 @@
 /*///////ADDITIONAL CSS ////////*/
 {% include additional_css/bootstrap.min.css %}
 {% include additional_css/font-awesome/font-awesome.min.css %}
+{% include additional_css/full-slider.css %}
 
 
 /*///////TEMPLATE CSS////////*/
@@ -1489,6 +1490,8 @@ body {
 
 }
 
+
+/* photo gallery */
 
 
 #gallery {
