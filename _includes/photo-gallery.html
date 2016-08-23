@@ -1,60 +1,42 @@
 <!-- Photo Gallery -->
 <div style="padding-top:30px;">
 
-	<!---inicio prueba -->
-	<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
-        <div class="col-md-4" style="background-color: #fff">
-            <a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="This is some dummy text for the first image, anything can go here really.." data-image="/img/mosaic/residencies_bcn.jpg" data-href="http://codepen.io" data-target="#image-gallery">
-                <img class="img-responsive" src="/img/mosaic/residencies_bcn.jpg" alt="Another alt text">
-            </a>
-        </div>
-        <div class="col-md-4" style="background-color: #fff">
-            <a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image Two" data-caption="Second image description and speil, running out of words that I can think of. I thought my vocabulary was better than that." data-image="/img/mosaic/exhibitions_bcn.jpg" data-href="http://jsfiddle.net" data-target="#image-gallery">
-                <img class="img-responsive" src="/img/mosaic/exhibitions_bcn.jpg" alt="Another alt text">
-            </a>
-        </div>
-        <div class="col-md-4" style="background-color: #fff">
-            <a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image Three" data-caption="My YouTube playlist is playing music I would literally never listen to." data-image="/img/mosaic/workshops_bcn.png" data-href="http://google.com" data-target="#image-gallery">
-                <img class="img-responsive" src="/img/mosaic/workshops_bcn.png" alt="Another alt text">
-            </a>
-        </div>
-	</div>
-
-	<!--Fin prueba -->
-
-
 	{% if page.hasgallery1 == true %}
 		<h4> {{page.gallerytitle }} </h4>
 		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
+		<!---inicio prueba -->
 			{% for image in page.images %}
-				<a href="{{ image.image_path }}">
+				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path }}" data-href="{{ image.image_path }}" data-target="#image-gallery">
 					<div class="col-md-4" style="background-image: url({{ image.image_path }}); background-position: center center; background-attachment: scroll; background-size: cover;">
 					</div>
-				</a>	
-		    {% endfor %}
+           		</a>
+			{% endfor %}
+		<!---fin prueba -->	
 		</div>
-	{% endif %}
+	{% endif %}	
+	
 
 	{% if page.hasgallery2 == true %}
 		<h4> {{page.gallerytitle2 }} </h4>
 		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
 			{% for image in page.images2 %}
-				<a href="{{ image.image_path2 }}">
+				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path2 }}" data-href="{{ image.image_path2 }}" data-target="#image-gallery">
 					<div class="col-md-4" style="background-image: url({{ image.image_path2 }}); background-position: center center; background-attachment: scroll; background-size: cover;">
 					</div>
-				</a>	
+           		</a>
 		    {% endfor %}
 		</div>
 	{% endif %}
+
 
 	{% if page.hasgallery3 == true %}
 		<h4> {{page.gallerytitle3 }} </h4>
 		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
 			{% for image in page.images3 %}
-				<a href="{{ image.image_path3 }}">
+				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path3 }}" data-href="{{ image.image_path3 }}" data-target="#image-gallery">
 					<div class="col-md-4" style="background-image: url({{ image.image_path3 }}); background-position: center center; background-attachment: scroll; background-size: cover;">
 					</div>
-				</a>	
+           		</a>
 		    {% endfor %}
 		</div>
 	{% endif %}

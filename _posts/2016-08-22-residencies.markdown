@@ -22,11 +22,11 @@ images:
 hasgallery2: true        
 gallerytitle2: Plymouth Residency @Plymouth College of Arts   
 images2:
-  - image_path2: /img/mosaic/residencies_bcn.jpg
+  - image_path2: /img/mosaic/workshops_bcn.png
     title: Barcelona
   - image_path2: /img/mosaic/exhibitions_bcn.jpg
     title: Barcelona
-  - image_path2: /img/mosaic/workshops_bcn.png
+  - image_path2: /img/mosaic/residencies_bcn.jpg
     title: Barcelona
 hasgallery3: false    
 gallerytitle3:  
