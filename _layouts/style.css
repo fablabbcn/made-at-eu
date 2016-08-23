@@ -1495,13 +1495,30 @@ body {
 
 
 #gallery {
-
     width: 33%;
     line-height: 0;
-
  }
 
 
+
+/* modal gallery in posts */
+.modal-footer {
+    min-height:150px;
+}
+
+#image-gallery-link {
+    clear:both;
+    width:100%;
+    text-align:center;
+    padding:0px;
+    margin:0px;
+}
+
+#image-gallery-caption {
+    text-align:center;
+    max-width:70%;
+    margin:auto;
+}
 
 
 
