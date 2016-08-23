@@ -1,15 +1,14 @@
 ---
 title: Made@Eu Residencies
 subtitle: 
+description: 
 layout: posts
 date: 2014-07-18
 img: residencies.jpg
 thumbnail: residencies-thumbnail.jpg
 alt: image-alt
 project-date: 
-client: 
 category: residencies
-description: 
 permalink: /residencies
 hasgallery1: true   
 gallerytitle: Barcelona Residency @Fab Lab Barcelona
