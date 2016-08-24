@@ -19,6 +19,7 @@
 
  /*---GENERAL TEXT--*/ 
 
+
  body {
     overflow-x: hidden;
     font-family: 'Karla',"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -383,15 +384,16 @@ header {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
-    margin-top: 8%;
+    margin-top: 8%; 
 }
 
 @media(max-width:767px) {
 
+    /*
     header {
         margin-top: 0;
     }
-
+*/
 
 }
 
@@ -1491,6 +1493,7 @@ body {
 }
 
 
+
 /* photo gallery */
 
 
@@ -1520,7 +1523,7 @@ body {
     color: #fff;
 }
 
-/*--> modal bootstrap defaults overwritten css --> */
+/*--> modal bootstrap defaults overwritten css --> 
 
 @media (min-width: 768px) {
    #image-gallery.modal-dialog {
@@ -1579,8 +1582,7 @@ body {
     width: 100%;
 }
 
-
-
+*/
 
 
 
