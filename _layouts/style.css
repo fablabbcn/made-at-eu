@@ -1501,10 +1501,7 @@ body {
 
 
 
-/* modal gallery in posts */
-.modal-footer {
-    min-height:150px;
-}
+/* MODAL PHOTO GALLERY IN POSTS */
 
 #image-gallery-link {
     clear:both;
@@ -1512,19 +1509,70 @@ body {
     text-align:center;
     padding:0px;
     margin:0px;
+    color: #fff;
 }
 
 #image-gallery-caption {
     text-align:center;
     max-width:70%;
     margin:auto;
+    color: #fff;
+}
+
+/*--> modal bootstrap defaults overwritten css --> */
+
+@media (min-width: 768px) {
+   #image-gallery.modal-dialog {
+        width: 600px;
+    }
+}
+
+.modal-content {
+    border-radius: 0px;
+    background-color: #000;
+}
+
+.modal-header {
+    border-bottom: 0px;
+    min-height: 50px;
+}
+
+.modal-body {
+    padding: 0px;
 }
 
 
+.modal-content button.close {
+    padding: 0px;
+}
 
 
+.modal-content .close {
+    font-size: 28px;
+    opacity: 1;
+    color: #fff;
+    font-weight: 100;
+}
 
 
+.modal-footer {
+    padding-top: 50px;
+    min-height:150px;
+    border-top: 0px;
+    text-align: center;
+}
+
+.modal-footer.col-md-2 {
+    padding-right: 0px;
+}
+
+.btn-default {
+    color: #fff;
+    background-color: #000;
+    border-color: #fff;
+    border-radius: 0px;
+
+}
 
 
 
