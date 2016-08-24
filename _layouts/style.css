@@ -560,7 +560,7 @@ section#what {
     padding: 190px 0px 0px 0px;
 }
 
-.margen-what {
+.texto {
    position: relative; 
    padding-right: 5%; 
    padding-left: 5%;
@@ -650,7 +650,7 @@ h4.learn-more {
 
 
 @media(min-width:767px) {
-    .margen-what {
+    .texto {
         position: relative; 
     }
 
@@ -763,7 +763,7 @@ section#what-full {
     padding: 190px 0px 0px 0px;
 }
 
-.margen-what {
+.texto {
    position: relative; 
    padding-right: 5%; 
    padding-left: 5%;
@@ -1474,19 +1474,17 @@ body {
 
 /* POSTS-CONTENT */
 
-.contenido {
-    padding: 0px 5% 30px 5%;
-}
 
-.contenido h1 {
+.texto h1 {
     padding-bottom: 20px;
 }
 
-.contenido p {
-    font-size: 16px;
+.texto p {
+    font-size: 25px;
+    line-height:1.7;
 }
 
-.contenido h4 {
+.texto h4 {
     text-align: left; 
     padding-bottom: 10px;
 
