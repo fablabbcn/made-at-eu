@@ -1,73 +1,53 @@
-<!-- Navigation -->
-    <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container" style="padding-right: 3%;">
-            <!-- Brand and toggle get grouped for better mobile display -->
+<!-- Header -->
 
+
+<header id="myCarousel" class="carousel slide">
+    <!-- Indicators -->
+    <ol class="carousel-indicators">
+        <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+        <li data-target="#myCarousel" data-slide-to="1"></li>
+        <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+
+    <!-- Wrapper for Slides -->
+    <div class="carousel-inner">
+        <div class="item active">
+            <!-- Set the first background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/slideshow/0.jpg');"></div>
+            <!---<div class="carousel-caption"> <h2>Caption 1</h2></div>-->
+        </div>
+        <div class="item">
+            <!-- Set the second background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/slideshow/1.jpg');"></div>
+            <!--<div class="carousel-caption"><h2>Caption 2</h2></div>-->
+        </div>
+        <div class="item">
+            <!-- Set the third background image using inline CSS below. -->
+            <div class="fill" style="background-image:url('../img/slideshow/2.jpg');"></div>
+            <!--<div class="carousel-caption"><h2>Caption 3</h2></div>-->
+        </div>
+    </div>
+
+        <!-- Controls -->
+    <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+        <span class="icon-prev"></span>
+    </a>
+    <a class="right carousel-control" href="#myCarousel" data-slide="next">
+        <span class="icon-next"></span>
+    </a>
+
+
+
+    <div class="container">
+        <div class="intro-text">
+            <div class="intro-lead-in"></div>
+            <!--<div class="intro-heading">Digital fabrication<br/>for the crafts</div> -->
+            <a href="https://www.fablabs.io/" target="blank" class="page-scroll btn btn-xl" style="position: absolute; bottom:0; right:0;">Also check out the <br> projects <br> at Fablabs.io &#62;</a>
           
-           <div class="logo-box">
-            <a href="/">
-            <img id="logo-navbar" class="logo-max" src="/img/logo-made.png"/>
-            </a> 
-           </div>
-           
-
-            <div class="navbar-header page-scroll">
-                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-                <a class="navbar-brand page-scroll" href="#page-top"></a>
-            </div>
-
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-
-               
-                <ul class="nav navbar-nav navbar-right">
-                    <li class="hidden">
-                        <a href="#page-top"></a>
-                    </li>
-
-                    
-                    <li>
-                        <a class="page-scroll" href="#what-full">About</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="/residencies">Residencies</a>
-                    </li>
-                    <li>
-                        <a class="page-scroll" href="/workshops">Workshops</a>
-                    </li> 
-                    <li>
-                        <a class="page-scroll" href="/exhibitions">Exhibitions</a>
-                    </li>
-
-                    
-                    <li>
-                        <a class="page-scroll" href="/artists">Artists</a>
-                    </li> 
-               
-                </ul>
-            </div>
-            <!-- /.navbar-collapse -->
         </div>
-        <!-- /.container-fluid -->
-    </nav>
+    </div>
+</header>
 
-    <!-- Header -->
-
-    <header>
-        <div class="container">
-            <div class="intro-text">
-                <div class="intro-lead-in"></div>
-                <!--<div class="intro-heading">Digital fabrication<br/>for the crafts</div> -->
-                <a href="https://www.fablabs.io/" target="blank" class="page-scroll btn btn-xl" style="position: absolute; bottom:0; right:0;">Also check out the <br> projects <br> at Fablabs.io &#62;</a>
-              
-            </div>
-        </div>
-    </header>
 <!--
         {% for page in site.pages %}
           {% if page.title %}<a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>{% endif %}
