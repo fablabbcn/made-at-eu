@@ -2,22 +2,20 @@
 <div style="padding-top:30px;">
 
 	{% if page.hasgallery1 == true %}
-		<h4> {{page.gallerytitle }} </h4>
+		<h3 class="section-sub-subheading"> {{page.gallerytitle }} </h3>
 		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
-		<!---inicio prueba -->
 			{% for image in page.images %}
 				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path }}" data-href="{{ image.image_path }}" data-target="#image-gallery">
 					<div class="col-md-4" style="background-image: url({{ image.image_path }}); background-position: center center; background-attachment: scroll; background-size: cover;">
 					</div>
            		</a>
 			{% endfor %}
-		<!---fin prueba -->	
 		</div>
 	{% endif %}	
 	
 
 	{% if page.hasgallery2 == true %}
-		<h4> {{page.gallerytitle2 }} </h4>
+		<h3 class="section-sub-subheading"> {{page.gallerytitle2 }} </h3>
 		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
 			{% for image in page.images2 %}
 				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path2 }}" data-href="{{ image.image_path2 }}" data-target="#image-gallery">
@@ -30,7 +28,7 @@
 
 
 	{% if page.hasgallery3 == true %}
-		<h4> {{page.gallerytitle3 }} </h4>
+		<h3 class="section-sub-subheading"> {{page.gallerytitle3 }} </h3>
 		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
 			{% for image in page.images3 %}
 				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path3 }}" data-href="{{ image.image_path3 }}" data-target="#image-gallery">

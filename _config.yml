@@ -12,6 +12,9 @@ color:
   secondary: 080808
   secondary-dark: 000
 
+fonts: 
+  primary: Karla  
+
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: flickr
