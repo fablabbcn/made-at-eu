@@ -8,9 +8,12 @@ url: http://127.0.0.1:4000/
 
 # Color settings (hex-codes without the leading hash-tag)
 color:
-  primary: f7ef01; 
-  secondary: ffffff
+  primary: f7ef01
+  secondary: 080808
   secondary-dark: 000
+
+fonts: 
+  primary: Karla  
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
