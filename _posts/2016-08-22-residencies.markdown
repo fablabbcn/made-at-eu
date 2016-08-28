@@ -10,6 +10,7 @@ alt: image-alt
 project-date: 
 category: residencies
 permalink: /residencies
+hasvideo: true
 hasgallery1: true   
 gallerytitle: Barcelona Residency @Fab Lab Barcelona
 images:
@@ -50,5 +51,7 @@ Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur
 Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
 
 {% include photo-gallery.html %}
+{% include video.html %}
+
 
 
