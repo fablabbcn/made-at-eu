@@ -1,34 +1,45 @@
 ---
 title: Made@Eu Residencies
-subtitle: 
 description: 
 layout: posts
 date: 2014-07-18
 img: residencies.jpg
-thumbnail: residencies-thumbnail.jpg
-alt: image-alt
-project-date: 
-category: residencies
+thumbnail: /img/mosaic/residencies-thumbnail.jpg
 permalink: /residencies
 hasvideo: true
+video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: Barcelona Residency @Fab Lab Barcelona
 images:
-  - image_path: /img/mosaic/residencies_bcn.jpg
-    title: Barcelona
-  - image_path: /img/mosaic/exhibitions_bcn.jpg
-    title: Barcelona
-  - image_path: /img/mosaic/workshops_bcn.png
-    title: Barcelona
+  - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
+    title: Batuque, piece by Ricardo O'Nascimento
+  - image_path: /img/residencies/barcelona/residencies-bcn-rizutti_2
+    title: Cristian Rizzuti
+  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol
+    title: Sculpture process by Ludovic Mallegol
+  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol-2
+    title: Sculpture process by Ludovic Mallegol
+  - image_path: /img/residencies/barcelona/residencies-barcelona-torre
+    title: Roman Torre 
+  - image_path: /img/residencies/barcelona/residencies-barcelona-annemie
+    title: Guerrilla Beehives by Annemie Maes 
+
 hasgallery2: true        
 gallerytitle2: Plymouth Residency @Plymouth College of Arts   
 images2:
-  - image_path2: /img/mosaic/workshops_bcn.png
-    title: Barcelona
-  - image_path2: /img/mosaic/exhibitions_bcn.jpg
-    title: Barcelona
-  - image_path2: /img/mosaic/residencies_bcn.jpg
-    title: Barcelona
+  - image_path2: /img/residencies/plymouth/residencies-plymouth-west
+    title: Jack West 
+  - image_path2: /img/residencies/plymouth/residencies-plymouth-smith
+    title: Alfie Smith
+  - image_path2: /img/residencies/plymouth/residencies-plymouth-martinez
+    title: Adriana Martinez
+  - image_path2: /img/residencies/plymouth/residencies-plymouth-ionascu
+    title: Adriana Ionascu
+  - image_path2: /img/residencies/plymouth/residencies-plymouth-bush
+    title: Matthew Bush
+  - image_path2: /img/residencies/plymouth/residencies-plymouth-cuttance
+    title: Phil Cuttance  
+
 hasgallery3: false    
 gallerytitle3:  
 images3:
@@ -38,9 +49,12 @@ images3:
 ---
 
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. 
+
+{% include photo-gallery.html %}
+
+Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
 
 His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
 
@@ -50,7 +64,6 @@ Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur
 
 Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
 
-{% include photo-gallery.html %}
 {% include video.html %}
 
 

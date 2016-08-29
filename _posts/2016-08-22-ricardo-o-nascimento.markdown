@@ -1,27 +1,23 @@
 ---
 title: Ricardo O'Nascimento
-subtitle: 
 description: 
 layout: posts
 date: 2014-07-18
 img: residencies.jpg
-thumbnail: residencies-thumbnail.jpg
-alt: image-alt
-project-date: 
-category: residencies
+thumbnail: img/residencies/barcelona/residencies_barcelona_nascimento_thumb.png
 permalink: /artists/ricardo-o-nascimento
 hasvideo: true
 hasgallery1: true   
-gallerytitle: Barcelona Residency @Fab Lab Barcelona
+gallerytitle: Ricardo O'Nascimento @Fab Lab Barcelona
 images:
-  - image_path: /img/mosaic/residencies_bcn.jpg
+  - image_path: /img/residencies/barcelona/residencies_barcelona_nascimento
+    title: Batuque, piece developed by Ricardo O'Nascimento on his residenciy @ Fab Lab Barcelona
+  - image_path: 
     title: Barcelona
-  - image_path: /img/mosaic/exhibitions_bcn.jpg
-    title: Barcelona
-  - image_path: /img/mosaic/workshops_bcn.png
+  - image_path: 
     title: Barcelona
 hasgallery2: false       
-gallerytitle2: Plymouth Residency @Plymouth College of Arts   
+gallerytitle2:  
 images2:
   - image_path2: 
   - image_path2: 
@@ -40,6 +36,8 @@ Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh 
 
 Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
 
+{% include photo-gallery.html %}
+
 His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
 
 Est ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro.
@@ -48,7 +46,7 @@ Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur
 
 Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
 
-{% include photo-gallery.html %}
+
 
 
 

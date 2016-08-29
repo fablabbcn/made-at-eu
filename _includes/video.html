@@ -4,7 +4,7 @@
 	{% if page.hasvideo == true %}
 		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
        		<div class="videoWrapper">
-				<iframe src="https://player.vimeo.com/video/133676785?color=ff9933" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+				<iframe src="{{ page.video_embed }}" width="720" height="405" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 			</div>
 		</div>
 	{% endif %}	
