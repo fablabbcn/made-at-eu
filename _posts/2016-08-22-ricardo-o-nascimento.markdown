@@ -1,7 +1,8 @@
 ---
 title: Ricardo O'Nascimento
 showdescription: true
-description: Media artist / Batuque interactive garment
+description: Media artist
+project: Batuque interactive garment
 layout: posts
 date: 2014-07-18
 img: residencies.jpg

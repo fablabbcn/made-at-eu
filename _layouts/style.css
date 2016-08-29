@@ -88,6 +88,11 @@ h6 {
     color: #{{ site.color.secondary }};;
 }
 
+.oblique {
+    font-style: oblique; 
+}
+
+
 
 /*---GENERAL IMG--*/ 
 
@@ -466,7 +471,7 @@ h2.section-subheading {
 
 @media(min-width:767px) {
     h2.section-subheading-xl {
-    font-size: 70px;
+    font-size: 65px;
     } 
 }  
 
@@ -539,18 +544,18 @@ section#content-mosaic {
     line-height:300px; 
     text-align: center;     
     vertical-align: middle;
+    color: transparent;
+    text-decoration: none;
     /*opacity: 1;*/
-    
 }
 
-.mosaic-subtitle a:hover{
-    color: #ffffff;
-    }
-
-.mosaic-subtitle a{
-    text-decoration: none;
+.subtitle {
     color: transparent;
-    }
+}
+
+.subtitle :hover {
+    color: #ffffff;
+}
 
 
 
