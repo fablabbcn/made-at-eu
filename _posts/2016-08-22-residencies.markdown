@@ -13,7 +13,7 @@ gallerytitle: Barcelona Residency @Fab Lab Barcelona
 images:
   - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
     title: Batuque, piece by Ricardo O'Nascimento
-  - image_path: /img/residencies/barcelona/residencies-bcn-rizutti_2
+  - image_path: /img/residencies/barcelona/residencies-barcelona-rizutti-2
     title: Cristian Rizzuti
   - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol
     title: Sculpture process by Ludovic Mallegol
@@ -64,7 +64,6 @@ Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur
 
 Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
 
-{% include video.html %}
 
 
 
