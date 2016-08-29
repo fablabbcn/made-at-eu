@@ -13,7 +13,7 @@ hasgallery1: true
 gallerytitle: 
 images:
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residenciy @ Fab Lab Barcelona
+    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-3
     title: Barcelona
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-2

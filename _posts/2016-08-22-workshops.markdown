@@ -1,16 +1,16 @@
 ---
-title: Made@Eu Residencies
+title: Made@Eu Workshops
 showdescription: false
 description: 
 layout: posts
 date: 2014-07-18
-img: /img/mosaic/residencies_bcn.jpg
-thumbnail: /img/mosaic/residencies-thumbnail.jpg
-permalink: /residencies
+img: residencies.jpg
+thumbnail: /img/mosaic/workshops.png
+permalink: /img/mosaic/workshops_par.jpg
 hasvideo: true
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
-gallerytitle: Barcelona Residency @Fab Lab Barcelona
+gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura
 images:
   - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
     title: Batuque, piece by Ricardo O'Nascimento
@@ -26,7 +26,7 @@ images:
     title: Guerrilla Beehives by Annemie Maes 
 
 hasgallery2: true        
-gallerytitle2: Plymouth Residency @Plymouth College of Arts   
+gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
 images2:
   - image_path2: /img/residencies/plymouth/residencies-plymouth-west
     title: Jack West 
@@ -41,8 +41,8 @@ images2:
   - image_path2: /img/residencies/plymouth/residencies-plymouth-cuttance
     title: Phil Cuttance  
 
-hasgallery3: false    
-gallerytitle3:  
+hasgallery3: true    
+gallerytitle3: Paris Workshops @ENSCI  
 images3:
   - image_path3: 
   - image_path3: 

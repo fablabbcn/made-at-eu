@@ -1,22 +1,28 @@
 ---
-title: Ricardo O'Nascimento
+title: Cristian Rizzuti
 showdescription: true
-description: Media artist / Batuque interactive garment
+description: Multimedia artist / Elastica performance
 layout: posts
 date: 2014-07-18
-img: residencies.jpg
-thumbnail: img/residencies/barcelona/residencies_barcelona_nascimento_thumb.png
-permalink: /artists/ricardo-o-nascimento
+img: img/residencies/barcelona/residencies-barcelona-rizzuti-2.jpg
+thumbnail: img/residencies/barcelona/residencies-barcelona-rizutti-2-thumb.jpg
+permalink: /artists/cristian-rizzuti
 hasvideo: true
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: 
 images:
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residenciy @ Fab Lab Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-3
+  - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-1
+    title: Elastica, piece developed by Cristian Rizzuti on his residency @ Fab Lab Barcelona
+  - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-2
     title: Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-2
+  - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-3
+    title: Barcelona
+  - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-4
+    title: Barcelona
+  - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-5
+    title: Barcelona
+  - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-6
     title: Barcelona
 hasgallery2: false       
 gallerytitle2:  

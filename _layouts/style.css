@@ -445,6 +445,7 @@ h1.section-heading {
     font-size: 40px;
     text-align: left;
     text-transform: none;
+    line-height: 0.95;
 }
 
 h2.section-subheading {
@@ -454,14 +455,20 @@ h2.section-subheading {
     text-transform: none;
 }
 
-h2.section-subheading-xl {
+ h2.section-subheading-xl {
     margin-bottom: 0px;
-    font-size: 70px;
+    font-size: 50px;
     text-align: left;
     text-transform: none;
     line-height: 0.9;
     letter-spacing: -2px;
 }
+
+@media(min-width:767px) {
+    h2.section-subheading-xl {
+    font-size: 70px;
+    } 
+}  
 
 
 
