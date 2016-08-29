@@ -10,7 +10,6 @@ url: http://127.0.0.1:4000/
 color:
   primary: f7ef01
   secondary: 080808
-  secondary-dark: 000
 
 fonts: 
   primary: Karla  
