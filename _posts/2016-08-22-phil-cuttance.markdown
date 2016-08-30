@@ -2,7 +2,7 @@
 title: Phil Cuttance
 showdescription: true
 description: Designer and maker
-project: Advanced Resin casting project
+project: Advanced resin casting project
 layout: posts
 date: 2014-07-18
 img: 
@@ -27,8 +27,6 @@ images:
     title: Phil Cuttance
   - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-4
     title: Phil Cuttance
-  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-3
-    title: Phil Cuttance
   - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-2
     title: Phil Cuttance
   - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-1
@@ -47,14 +45,17 @@ images3:
   - image_path3:    
 ---
 
-{% include video.html %}
 {% include photo-gallery.html %}
 
-I am aiming to produce a series of  intricate, cast objects based on my Faceture casting process but, by utilising Plymouth College of Arts Digital capabilities, take the process into a new direction in terms of the form and scale of the pieces. By cutting larger, more intricate moulds using Plymouth College of Art's digital equipment, I will then use these digitally made moulds to cast sculptural pieces using water-based resin; each piece will be unique in its form.
+Cuttance aim is to produce a series of intricate cast objects based on his Faceture casting process but, by utilising Plymouth College of Arts Digital capabilities, take the process into a new direction in terms of the form and scale of the pieces.
 
-After much experimentation I came up with a moulding technique that is not resolved but I think has exciting potential for me to push further. I think that digital technologies should have a light footprint within craft , and not be used to replace skill, but to complement the maker; To provide the maker with opportunities which aren't possible by hand. 
+By cutting larger, more intricate moulds using Plymouth College of Art's digital equipment, he uses these digitally made moulds to cast sculptural pieces using water-based resin; each piece is unique in its form.
 
-There are many people in the design/make field using technology, and I hope that this project is another example of using digital technolgy in this limited way. I am obviously wary of digital technology , but have been excited and impressed with what forms I can now make using the processes I employed. I feel I can use it in future projects to push the aesthetic of my work further while maintaining the 'hand-made' integrity of my work.
+Cuttance thinks that digital technologies should have a light footprint within craft, and not be used to replace skill, but to complement the maker; To provide the maker with opportunities which aren't possible by hand. 
+
+There are many people in the design/make field using technology, and he hopes that this project is another example of using digital technolgy in this limited way. 
+
+He claims he is wary of digital technology, but have been excited and impressed with what forms he can now make using the processes he employed. Cuttance feels he can use it in future projects to push the aesthetic of his work further while maintaining the 'hand-made' integrity of his work.
 
 
 

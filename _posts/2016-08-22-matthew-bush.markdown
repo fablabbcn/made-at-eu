@@ -48,17 +48,15 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-Further explore the relationship between a new technology, digital craft and a traditional craft. Introduce 3D printing as a new technology by creating Luxurious home furnishings. 
+Bush's aim is to explore the relationship between a new technology, digital craft and a traditional craft, introducing 3D printing as a new technology by creating luxurious home furnishings. 
 
-3D printing has rapidly developed in the last few years and will soon become part of our homes and daily lives. My vessels are designed to bring 3D printed object into the home as luxury items. Showing how additive manufacturing will influence the future details of the objects that surround us. 
+3D printing has rapidly developed in the last few years and will soon become part of our homes and daily lives. Bush's vessels are designed to bring 3D printed objects into the home as luxury items, showing how additive manufacturing will influence the future details of the objects that surround us. 
 
-Merging this new technology with a traditional process such as ceramics brings a familiar medium that introduces the new technologyâ€™s potentials. This is further express in the vessel forms themselves where the 3D printed forms aims to capture the complexity of nature. These complex forms are generated using fractal geometry. My inspiration for this came from the phrase â€˜Horror Vacuiâ€™, The fear of the empty A term associated with victorian interior design and paintings. Merged with these forms are elegant ceramic pieces that bring order and control to the vessel. This is where my project lies at the moment and I would like to continue developing marriage between digital and traditional craft. I have created 4 small vessels but, feel they are held back by their size. 
+Merging this new technology with a traditional process such as ceramics brings a familiar medium that introduces the new technology's potentials. This is further expressed in the vessel forms themselves where the 3D printed forms aims to capture the complexity of nature. These complex forms are generated using fractal geometry.
 
-Currently I am working on creating larger pieces. Given the opportunity and access to more equipment opens a way for this project to expand into other directions as simply naming a process opens doors to new potentials.
+Bush would like to question how the process of making adds value to material, by challenging our perception of what is luxury material by coupling porcelain with plastic. This raises the question on how the processes used to create a form creates value by elevating the value of plastic as a luxury material. 
 
-I would like to question how the process of making adds value to material. By challenging our perception of what is luxury material by coupling porcelain with plastic. Speaking how the processes used to create a form created value by elevating the value of plastic as a luxury material. 
-
-Overall, my aim would be to stay in the field of home furnishings. Creating either decorative or functional objects. I would like to explore the possibility of making furniture ideally using fabrications processes combined with traditional processes.
+Overall, his aim is be to stay in the field of home furnishings, creating either decorative or functional objects. He would like to explore the possibility of making furniture ideally using fabrications processes combined with traditional processes.
 
 
 
