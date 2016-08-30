@@ -12,46 +12,114 @@ video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura
 images:
-  - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
-    title: Batuque, piece by Ricardo O'Nascimento
-  - image_path: /img/residencies/barcelona/residencies-barcelona-rizzuti-2
-    title: Cristian Rizzuti
-  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol
-    title: Sculpture process by Ludovic Mallegol
-  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol-2
-    title: Sculpture process by Ludovic Mallegol
-  - image_path: /img/residencies/barcelona/residencies-barcelona-torre
-    title: Roman Torre 
-  - image_path: /img/residencies/barcelona/residencies-barcelona-annemie
-    title: Guerrilla Beehives by Annemie Maes 
-
+  - image_path: /img/workshops/barcelona/workshops-barcelona-1
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-2
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-3
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-4
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-5
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-6
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-7
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-8
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-9
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-10
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-11
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-12
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-13
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-14
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-15
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-16
+    title: Barcelona Workshop @Green Fab Lab Valldaura
+  - image_path: /img/workshops/barcelona/workshops-barcelona-18
+    title: Barcelona Workshop @Green Fab Lab Valldaura
 hasgallery2: true        
 gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
 images2:
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-west
-    title: Jack West 
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-smith
-    title: Alfie Smith
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-martinez
-    title: Adriana Martinez
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-ionascu
-    title: Adriana Ionascu
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-bush
-    title: Matthew Bush
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-cuttance
-    title: Phil Cuttance  
-
+  - image_path2: /img/workshops/workshops-plymouth-1
+    title: Plymouth Workshop @Plymouth College of Arts
+  - image_path2: /img/workshops/workshops-plymouth-2
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-3
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-4
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-5
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-6
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-7
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-8
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-9
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-10
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-11
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-12
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-13
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-14
+    title:
+  - image_path2: /img/workshops/workshops-plymouth-15
+    title:
 hasgallery3: true    
-gallerytitle3: Paris Workshops @ENSCI  
+gallerytitle3: Budapest Workshops  
 images3:
-  - image_path3: 
-  - image_path3: 
-  - image_path3:    
+  - image_path3: /img/workshops/workshops-budapest-1
+    title:
+  - image_path3: /img/workshops/workshops-budapest-2
+    title:
+  - image_path3: /img/workshops/workshops-budapest-3
+    title:
+  - image_path3: /img/workshops/workshops-budapest-4
+    title:
+  - image_path3: /img/workshops/workshops-budapest-5
+    title:
+  - image_path3: /img/workshops/workshops-budapest-6
+    title:
+  - image_path3: /img/workshops/workshops-budapest-7
+    title:
+  - image_path3: /img/workshops/workshops-budapest-8
+    title:
+  - image_path3: /img/workshops/workshops-budapest-9
+    title:
+  - image_path3: /img/workshops/workshops-budapest-10
+    title:
+  - image_path3: /img/workshops/workshops-budapest-11
+    title:
+  - image_path3: /img/workshops/workshops-budapest-12
+    title:
+  - image_path3: /img/workshops/workshops-budapest-13
+    title:
+  - image_path3: /img/workshops/workshops-budapest-14
+    title:
+  - image_path3: /img/workshops/workshops-budapest-15
+    title:                
+ 
 ---
+
+The Made@EU project also consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam.
 
 {% include photo-gallery.html %}
 
-The Made@EU project also consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam, designed to accomplish the following goals:  
+These workshops are designed to accomplish the following goals:  
 
 • To directly impact the bridging of the “digital divide”;
 
