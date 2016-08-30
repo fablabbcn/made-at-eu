@@ -9,7 +9,7 @@ thumbnail:
 permalink: /artists
 hasvideo: false
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
-hasgallery1: true   
+hasgallery1: false   
 gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura
 images:
   - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
@@ -24,14 +24,11 @@ images:
     title: Roman Torre 
   - image_path: /img/residencies/barcelona/residencies-barcelona-annemie
     title: Guerrilla Beehives by Annemie Maes 
-
-hasgallery2: true        
-gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
+hasgallery2: false        
+gallerytitle2:   
 images2:
-
-
-hasgallery3: true    
-gallerytitle3: Paris Workshops @ENSCI  
+hasgallery3: false  
+gallerytitle3:   
 images3:
   - image_path3: 
   - image_path3: 
