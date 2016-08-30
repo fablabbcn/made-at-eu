@@ -38,79 +38,75 @@ images:
     title: Barcelona Workshop @Green Fab Lab Valldaura
   - image_path: /img/workshops/barcelona/workshops-barcelona-13
     title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-14
-    title: Barcelona Workshop @Green Fab Lab Valldaura
   - image_path: /img/workshops/barcelona/workshops-barcelona-15
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-16
     title: Barcelona Workshop @Green Fab Lab Valldaura
   - image_path: /img/workshops/barcelona/workshops-barcelona-18
     title: Barcelona Workshop @Green Fab Lab Valldaura
 hasgallery2: true        
 gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
 images2:
-  - image_path2: /img/workshops/workshops-plymouth-1
-    title: Plymouth Workshop @Plymouth College of Arts
-  - image_path2: /img/workshops/workshops-plymouth-2
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-1
+    title: 
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-2
     title:
-  - image_path2: /img/workshops/workshops-plymouth-3
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-3
     title:
-  - image_path2: /img/workshops/workshops-plymouth-4
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-4
     title:
-  - image_path2: /img/workshops/workshops-plymouth-5
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-5
     title:
-  - image_path2: /img/workshops/workshops-plymouth-6
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-6
     title:
-  - image_path2: /img/workshops/workshops-plymouth-7
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-7
     title:
-  - image_path2: /img/workshops/workshops-plymouth-8
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-8
     title:
-  - image_path2: /img/workshops/workshops-plymouth-9
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-9
     title:
-  - image_path2: /img/workshops/workshops-plymouth-10
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-10
     title:
-  - image_path2: /img/workshops/workshops-plymouth-11
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-11
     title:
-  - image_path2: /img/workshops/workshops-plymouth-12
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-12
     title:
-  - image_path2: /img/workshops/workshops-plymouth-13
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-13
     title:
-  - image_path2: /img/workshops/workshops-plymouth-14
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-14
     title:
-  - image_path2: /img/workshops/workshops-plymouth-15
+  - image_path2: /img/workshops/plymouth/workshops-plymouth-15
     title:
 hasgallery3: true    
 gallerytitle3: Budapest Workshops  
 images3:
-  - image_path3: /img/workshops/workshops-budapest-1
+  - image_path3: /img/workshops/budapest/workshops-budapest-1
     title:
-  - image_path3: /img/workshops/workshops-budapest-2
+  - image_path3: /img/workshops/budapest/workshops-budapest-2
     title:
-  - image_path3: /img/workshops/workshops-budapest-3
+  - image_path3: /img/workshops/budapest/workshops-budapest-3
     title:
-  - image_path3: /img/workshops/workshops-budapest-4
+  - image_path3: /img/workshops/budapest/workshops-budapest-4
     title:
-  - image_path3: /img/workshops/workshops-budapest-5
+  - image_path3: /img/workshops/budapest/workshops-budapest-5
     title:
-  - image_path3: /img/workshops/workshops-budapest-6
+  - image_path3: /img/workshops/budapest/workshops-budapest-6
     title:
-  - image_path3: /img/workshops/workshops-budapest-7
+  - image_path3: /img/workshops/budapest/workshops-budapest-7
     title:
-  - image_path3: /img/workshops/workshops-budapest-8
+  - image_path3: /img/workshops/budapest/workshops-budapest-8
     title:
-  - image_path3: /img/workshops/workshops-budapest-9
+  - image_path3: /img/workshops/budapest/workshops-budapest-9
     title:
-  - image_path3: /img/workshops/workshops-budapest-10
+  - image_path3: /img/workshops/budapest/workshops-budapest-10
     title:
-  - image_path3: /img/workshops/workshops-budapest-11
+  - image_path3: /img/workshops/budapest/workshops-budapest-11
     title:
-  - image_path3: /img/workshops/workshops-budapest-12
+  - image_path3: /img/workshops/budapest/workshops-budapest-12
     title:
-  - image_path3: /img/workshops/workshops-budapest-13
+  - image_path3: /img/workshops/budapest/workshops-budapest-13
     title:
-  - image_path3: /img/workshops/workshops-budapest-14
+  - image_path3: /img/workshops/budapest/workshops-budapest-14
     title:
-  - image_path3: /img/workshops/workshops-budapest-15
+  - image_path3: /img/workshops/budapest/workshops-budapest-15
     title:                
  
 ---

@@ -1,5 +1,5 @@
 ---
-title: Made@Eu Workshops
+title: Made@Eu Exhibitions
 showdescription: false
 description: 
 layout: posts
@@ -7,7 +7,7 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /exhibitions
-hasvideo: true
+hasvideo: false
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura
@@ -50,8 +50,6 @@ images3:
 ---
 
 One of the priorities of the Made@Eu project is the organisation of three exhibitions, which, together with the extra european diffusion activities, demonstrate that the Made@EU project is attuned to the need to support international cultural activities, such as for instance exhibitions, exchanges and festivals.
-
-{% include photo-gallery.html %}
 
 These exhibitions are directed not only to designers and members of the creative community but also to the general public in order to direct interest of consumers to Made@EU online platform and to European creative works in general.
 
