@@ -46,6 +46,8 @@ p {
     line-height: 1.7;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary }};
+    margin-top: 0em;
+    margin-bottom: 1.3em;
 
 }
 
@@ -87,6 +89,11 @@ h6 {
     font-weight: 700;
     color: #{{ site.color.secondary }};;
 }
+
+.oblique {
+    font-style: oblique; 
+}
+
 
 
 /*---GENERAL IMG--*/ 
@@ -445,6 +452,7 @@ h1.section-heading {
     font-size: 40px;
     text-align: left;
     text-transform: none;
+    line-height: 0.95;
 }
 
 h2.section-subheading {
@@ -454,14 +462,20 @@ h2.section-subheading {
     text-transform: none;
 }
 
-h2.section-subheading-xl {
+ h2.section-subheading-xl {
     margin-bottom: 0px;
-    font-size: 70px;
+    font-size: 50px;
     text-align: left;
     text-transform: none;
     line-height: 0.9;
     letter-spacing: -2px;
 }
+
+@media(min-width:767px) {
+    h2.section-subheading-xl {
+    font-size: 65px;
+    } 
+}  
 
 
 
@@ -532,18 +546,18 @@ section#content-mosaic {
     line-height:300px; 
     text-align: center;     
     vertical-align: middle;
-    /*opacity: 1;*/
-    
+    color: transparent;
+    text-decoration: none;
+    text-transform: uppercase;
 }
 
-.mosaic-subtitle a:hover{
-    color: #ffffff;
-    }
-
-.mosaic-subtitle a{
-    text-decoration: none;
+.subtitle {
     color: transparent;
-    }
+}
+
+.subtitle :hover {
+    color: #ffffff;
+}
 
 
 

@@ -1,23 +1,24 @@
 ---
 title: Ricardo O'Nascimento
 showdescription: true
-description: Media artist / Batuque interactive garment
+description: Media artist
+project: Batuque interactive garment
 layout: posts
 date: 2014-07-18
 img: residencies.jpg
 thumbnail: img/residencies/barcelona/residencies_barcelona_nascimento_thumb.png
 permalink: /artists/ricardo-o-nascimento
-hasvideo: true
+hasvideo: false
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: 
 images:
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residenciy @ Fab Lab Barcelona
+    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-3
-    title: Barcelona
+    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-2
-    title: Barcelona
+    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
 hasgallery2: false       
 gallerytitle2:  
 images2:
@@ -35,17 +36,7 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
-
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
-
-His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
-
-Est ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro.
-
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
-
-Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
+“Batuque” is a performance inspired by the Afro-Brazilian faith Candomblé. In this belief the entities are represented by people wearing specific clothing as part of a ritual that transposes them into another dimension. The name “Batuque” is used to refer to the religion, especially before the 19th century and is also the Brazilian word associated with percussion instruments and with african roots. In this performance the wearer becomes a sort of creature or entity that has an extra sense. Its skin senses the surround sound and reacts to it accordingly, with movements and vibrations. The garment uses sensor technology and digital prototyping techniques, such as 3d printing and laser engraving, to create a magical and enjoyable experience. - See more at: http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf 
 
 
 

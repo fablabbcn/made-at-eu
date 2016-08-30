@@ -1,0 +1,62 @@
+---
+title: Jack West
+showdescription: true
+description: Artist and sculptor
+project: Modelling the Machine
+layout: posts
+date: 2014-07-18
+img: 
+thumbnail: 
+permalink: /artists/jack-west
+hasvideo: false
+video_embed: https://player.vimeo.com/video/133676785?color=ff9933
+hasgallery1: true   
+gallerytitle: 
+images:
+  - image_path: /img/artists/west/residencies-plymouth-west-1
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-2
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-3
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-4
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-5
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-6
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-7
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-8
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-9
+    title: Jack West 
+                       
+hasgallery2: false       
+gallerytitle2:  
+images2:
+  - image_path2: 
+  - image_path2: 
+  - image_path2: 
+hasgallery3: false    
+gallerytitle3:  
+images3:
+  - image_path3: 
+  - image_path3: 
+  - image_path3:    
+---
+
+{% include video.html %}
+{% include photo-gallery.html %}
+
+My aim would be to use digital technology already familiar to me, alongside processes I am less familiar with to create a series of small scale, almost 'absurd machine' models. That would be motorised and perform various simple actions. i.e lifting, sifting, drilling etc. They would take some influence from working models, used to test out machinery in the industrial revolution. I've attached links to CGI videos previously made that show the kind of things I've created in this virtual space.
+
+Seeing as much of my previous work has been relatively large scale, it'll be interesting to see how many of the themes and ideas within my practice translate when reduced in size. Equally, using digital technology  can often restrict the act of 'play' that can be crucial to finding new ways of working. A funded residency where digital processes take centre stage would allow me to explore these technologies in ways that may be difficult otherwise.
+
+ 
+
+
+
+
+
+
