@@ -42,9 +42,15 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-Elastica is a wearable suit , developed with low cost, DIY embroidered stretch sensors that functions as an interface for the performer, augmenting his body, creating sound and data visualisation. Through the use of E-textile and conductive threads, the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with a external environment. 
+Elastica is a wearable suit developed with low cost, DIY embroidered stretch sensors that functions as an interface for the performer augmenting his body, creating sound and data visualisation. 
 
-After a study on the anatomy of the body and the expansion of the muscles, the stretch sensors are integrated to a tailored suit that through Wifi communicates with MAXmsp interface to generate audio/visual output. Elastica becomes an interface instrument for the performer, creating real-time dialogue between fashion and dance, wearable technologies and data visualisation. - See more at: http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf
+Through the use of E-textile and conductive thread the body biometrics allow performers to capture data of their behaviour, enhancing how they engage with a external environment. 
+
+After a study on the anatomy of the body and the expansion of the muscles, the stretch sensors are integrated to a tailored suit that through Wifi communicates with MAXmsp interface to generate audio/visual output. 
+
+Elastica becomes an interface instrument for the performer, creating real-time dialogue between fashion and dance, wearable technologies and data visualisation. 
+
+See more at: [http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf](http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf)
 
 
 

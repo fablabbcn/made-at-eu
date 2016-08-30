@@ -37,12 +37,6 @@ images:
     title: Laura Marinez
   - image_path: /img/artists/martinez/residencies-plymouth-martinez-4
     title: Laura Marinez
-  - image_path: /img/artists/martinez/residencies-plymouth-martinez-3
-    title: Laura Marinez
-  - image_path: /img/artists/martinez/residencies-plymouth-martinez-2
-    title: Laura Marinez
-  - image_path: /img/artists/martinez/residencies-plymouth-martinez-1
-    title: Laura Marinez
 hasgallery2: false       
 gallerytitle2:  
 images2:
@@ -60,9 +54,9 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-I am very interested in how patterns are generated in nature. I am currently experimenting with processing for generative 3D design. I would like to experiment on how this process can be incorporated on my practice. 
+Martinez is very interested in how patterns are generated in nature. She is currently experimenting with processing for generative 3D design and would like to experiment on how this process can be incorporated on her practice. 
 
-The aim is to push the limits of the technology and craft in terms of complexity and aesthetic . I would like to produce not only geometries that cannot be achieved with traditional fabrication processes but also to blur the perception between the machine made and hand made by integrating the gold work.
+The aim is to push the limits of the technology and craft in terms of complexity and aesthetic. She would like to produce not only geometries that cannot be achieved with traditional fabrication processes but also to blur the perception between the machine made and hand made by integrating the gold work.
 
 
 

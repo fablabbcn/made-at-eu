@@ -49,9 +49,11 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-My aim would be to use digital technology already familiar to me, alongside processes I am less familiar with to create a series of small scale, almost 'absurd machine' models. That would be motorised and perform various simple actions. i.e lifting, sifting, drilling etc. They would take some influence from working models, used to test out machinery in the industrial revolution. I've attached links to CGI videos previously made that show the kind of things I've created in this virtual space.
+Jack West's aim is to use digital technology already familiar to him, alongside processes he is less familiar with to create a series of small scale, almost 'absurd machine' models. They take some influence from working models, used to test out machinery in the industrial revolution. 
 
-Seeing as much of my previous work has been relatively large scale, it'll be interesting to see how many of the themes and ideas within my practice translate when reduced in size. Equally, using digital technology  can often restrict the act of 'play' that can be crucial to finding new ways of working. A funded residency where digital processes take centre stage would allow me to explore these technologies in ways that may be difficult otherwise.
+Seeing as much of his previous work has been relatively large scale, it is interesting to see how many of the themes and ideas within his practice translate when reduced in size. Equally, using digital technology can often restrict the act of 'play' that can be crucial to finding new ways of working. 
+
+"A funded residency where digital processes take centre stage would allow me to explore these technologies in ways that may be difficult otherwise" states West about the experience. 
 
  
 
