@@ -39,6 +39,7 @@ images3:
   - image_path3:    
 ---
 
+{% include video.html %}
 {% include photo-gallery.html %}
 
 The Robot’s secret is a project that seeks to reply to the digital era of mass customisation by blending traditional crafts and technology. Can we create platforms for open design and make them accesible to everybody? Can the creative process be participatory and democratised?

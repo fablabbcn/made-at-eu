@@ -1,0 +1,48 @@
+---
+title: Made@Eu Artists
+showdescription: false
+description: 
+layout: posts
+date: 2014-07-18
+img: residencies.jpg
+thumbnail: 
+permalink: /artists
+hasvideo: false
+video_embed: https://player.vimeo.com/video/133676785?color=ff9933
+hasgallery1: true   
+gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura
+images:
+  - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
+    title: Batuque, piece by Ricardo O'Nascimento
+  - image_path: /img/residencies/barcelona/residencies-barcelona-rizzuti-2
+    title: Cristian Rizzuti
+  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol
+    title: Sculpture process by Ludovic Mallegol
+  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol-2
+    title: Sculpture process by Ludovic Mallegol
+  - image_path: /img/residencies/barcelona/residencies-barcelona-torre
+    title: Roman Torre 
+  - image_path: /img/residencies/barcelona/residencies-barcelona-annemie
+    title: Guerrilla Beehives by Annemie Maes 
+
+hasgallery2: true        
+gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
+images2:
+
+
+hasgallery3: true    
+gallerytitle3: Paris Workshops @ENSCI  
+images3:
+  - image_path3: 
+  - image_path3: 
+  - image_path3:    
+---
+
+{% include mosaic-artists.html %}
+
+
+
+
+
+
+

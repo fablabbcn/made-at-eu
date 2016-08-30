@@ -1,24 +1,40 @@
 ---
 title: Alfie Smith
 showdescription: true
-description: Media artist
-project: Batuque interactive garment
+description: Artist
+project: Printing In Pate De Verre
 layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /artists/alfie-smith
-hasvideo: true
+hasvideo: false
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: 
 images:
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-3
-    title: Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-2
-    title: Barcelona
+  - image_path: /img/artists/smith/residencies-plymouth-smith-10
+    title: Alfie Smith
+  - image_path: /img/artists/smith/residencies-plymouth-smith-9
+    title: Alfie Smith
+  - image_path: /img/artists/smith/residencies-plymouth-smith-8
+    title: Alfie Smith
+  - image_path: /img/artists/smith/residencies-plymouth-smith-7
+    title: Alfie Smith
+  - image_path: /img/artists/smith/residencies-plymouth-smith-6
+    title: Alfie Smith
+  - image_path: /img/artists/smith/residencies-plymouth-smith-5
+    title: Alfie Smith    
+  - image_path: /img/artists/smith/residencies-plymouth-smith-5
+    title: Alfie Smith
+  - image_path: /img/artists/smith/residencies-plymouth-smith-4
+    title: Alfie Smith  
+  - image_path: /img/artists/smith/residencies-plymouth-smith-3
+    title: Alfie Smith 
+  - image_path: /img/artists/smith/residencies-plymouth-smith-2
+    title: Alfie Smith
+  - image_path: /img/artists/smith/residencies-plymouth-smith-1
+    title: Alfie Smith                           
 hasgallery2: false       
 gallerytitle2:  
 images2:
@@ -36,17 +52,14 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+I aim to refine and perfect the creation of Pate De Verre pieces using a delta printer to create unique forms. Currently these pieces would be both sculptural and useful but this may change dependant on how my work at Wolverhampton University progresses. 
+This would particularly focus on the firing techniques which have been an issue for other artists that have attempted this technique. It is a very new process and could potentially create a refined form of glassworking. I intend to create a range of tests and final pieces using a pate de verre paste as a medium in a delta 3D printer. Also I hope that the research gained from this practice would be submitted to the crafts council, expanding the knowledge of digital crafts in glass making.
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+I anticipate using traditional techniques to aid the printing and firing of the pieces. Also, research in to the recipe of Pate De Verre will require traditional techniques to create an ideal recipe for an effective paste.
 
-His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
+I intend to use the digital tools and processes to improve and modify the delta printer to create a more effective machine. Using autodesk software to create relevant files ideal for printing the glass paste. Also, the processes may involve the introduction of supports and props to support the printing and firing of the pieces, this will involve the use of 3D printers or CAD-CAM machinery.
 
-Est ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro.
-
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
-
-Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
+ 
 
 
 

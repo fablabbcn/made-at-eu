@@ -8,7 +8,7 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /artists/cristian-rizzuti
-hasvideo: true
+hasvideo: false
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: 
@@ -16,15 +16,15 @@ images:
   - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-1
     title: Elastica, piece developed by Cristian Rizzuti on his residency @ Fab Lab Barcelona
   - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-2
-    title: Barcelona
+    title: Elastica, piece developed by Cristian Rizzuti on his residency @ Fab Lab Barcelona
   - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-3
-    title: Barcelona
+    title: Elastica, piece developed by Cristian Rizzuti on his residency @ Fab Lab Barcelona
   - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-4
-    title: Barcelona
+    title: Elastica, piece developed by Cristian Rizzuti on his residency @ Fab Lab Barcelona
   - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-5
-    title: Barcelona
+    title: BElastica, piece developed by Cristian Rizzuti on his residency @ Fab Lab Barcelona
   - image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-6
-    title: Barcelona
+    title: Elastica, piece developed by Cristian Rizzuti on his residency @ Fab Lab Barcelona
 hasgallery2: false       
 gallerytitle2:  
 images2:

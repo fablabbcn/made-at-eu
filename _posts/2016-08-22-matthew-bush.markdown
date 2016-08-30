@@ -1,24 +1,36 @@
 ---
 title: Matthew Bush
 showdescription: true
-description: Media artist
-project: Batuque interactive garment
+description: Artist
+project: Layered and clay
 layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /artists/matthew-bush
-hasvideo: true
+hasvideo: false
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: 
 images:
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-3
-    title: Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-2
-    title: Barcelona
+  - image_path: /img/artists/bush/residencies-plymouth-bush-9
+    title: Matthew Bush
+  - image_path: /img/artists/bush/residencies-plymouth-bush-8
+    title: Matthew Bush
+  - image_path: /img/artists/bush/residencies-plymouth-bush-7
+    title: Matthew Bush
+  - image_path: /img/artists/bush/residencies-plymouth-bush-6
+    title: Matthew Bush
+  - image_path: /img/artists/bush/residencies-plymouth-bush-5
+    title: Matthew Bush
+  - image_path: /img/artists/bush/residencies-plymouth-bush-4
+    title: Matthew Bush
+  - image_path: /img/artists/bush/residencies-plymouth-bush-3
+    title: Matthew Bush
+  - image_path: /img/artists/bush/residencies-plymouth-bush-2
+    title: Matthew Bush
+  - image_path: /img/artists/bush/residencies-plymouth-bush-1
+    title: Matthew Bush
 hasgallery2: false       
 gallerytitle2:  
 images2:
@@ -36,17 +48,17 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+Further explore the relationship between a new technology, digital craft and a traditional craft. Introduce 3D printing as a new technology by creating Luxurious home furnishings. 
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+3D printing has rapidly developed in the last few years and will soon become part of our homes and daily lives. My vessels are designed to bring 3D printed object into the home as luxury items. Showing how additive manufacturing will influence the future details of the objects that surround us. 
 
-His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
+Merging this new technology with a traditional process such as ceramics brings a familiar medium that introduces the new technologyâ€™s potentials. This is further express in the vessel forms themselves where the 3D printed forms aims to capture the complexity of nature. These complex forms are generated using fractal geometry. My inspiration for this came from the phrase â€˜Horror Vacuiâ€™, The fear of the empty A term associated with victorian interior design and paintings. Merged with these forms are elegant ceramic pieces that bring order and control to the vessel. This is where my project lies at the moment and I would like to continue developing marriage between digital and traditional craft. I have created 4 small vessels but, feel they are held back by their size. 
 
-Est ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro.
+Currently I am working on creating larger pieces. Given the opportunity and access to more equipment opens a way for this project to expand into other directions as simply naming a process opens doors to new potentials.
 
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
+I would like to question how the process of making adds value to material. By challenging our perception of what is luxury material by coupling porcelain with plastic. Speaking how the processes used to create a form created value by elevating the value of plastic as a luxury material. 
 
-Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
+Overall, my aim would be to stay in the field of home furnishings. Creating either decorative or functional objects. I would like to explore the possibility of making furniture ideally using fabrications processes combined with traditional processes.
 
 
 

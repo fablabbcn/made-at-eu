@@ -1,24 +1,37 @@
 ---
 title: Jack West
 showdescription: true
-description: Media artist
-project: Batuque interactive garment
+description: Artist and sculptor
+project: Modelling the Machine
 layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /artists/jack-west
-hasvideo: true
+hasvideo: false
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: 
 images:
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-3
-    title: Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-2
-    title: Barcelona
+  - image_path: /img/artists/west/residencies-plymouth-west-1
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-2
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-3
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-4
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-5
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-6
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-7
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-8
+    title: Jack West 
+  - image_path: /img/artists/west/residencies-plymouth-west-9
+    title: Jack West 
+                       
 hasgallery2: false       
 gallerytitle2:  
 images2:
@@ -36,17 +49,11 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+My aim would be to use digital technology already familiar to me, alongside processes I am less familiar with to create a series of small scale, almost 'absurd machine' models. That would be motorised and perform various simple actions. i.e lifting, sifting, drilling etc. They would take some influence from working models, used to test out machinery in the industrial revolution. I've attached links to CGI videos previously made that show the kind of things I've created in this virtual space.
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+Seeing as much of my previous work has been relatively large scale, it'll be interesting to see how many of the themes and ideas within my practice translate when reduced in size. Equally, using digital technology  can often restrict the act of 'play' that can be crucial to finding new ways of working. A funded residency where digital processes take centre stage would allow me to explore these technologies in ways that may be difficult otherwise.
 
-His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
-
-Est ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro.
-
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
-
-Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
+ 
 
 
 

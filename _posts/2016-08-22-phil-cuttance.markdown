@@ -1,24 +1,38 @@
 ---
 title: Phil Cuttance
 showdescription: true
-description: Media artist
-project: Batuque interactive garment
+description: Designer and maker
+project: Advanced Resin casting project
 layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /artists/phil-cuttance
-hasvideo: true
+hasvideo: false
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: 
 images:
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-3
-    title: Barcelona
-  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-2
-    title: Barcelona
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-10
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-9
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-8
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-7
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-6
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-5
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-4
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-3
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-2
+    title: Phil Cuttance
+  - image_path: /img/artists/cuttance/residencies-plymouth-cuttance-1
+    title: Phil Cuttance   
 hasgallery2: false       
 gallerytitle2:  
 images2:
@@ -36,17 +50,11 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi.
+I am aiming to produce a series of  intricate, cast objects based on my Faceture casting process but, by utilising Plymouth College of Arts Digital capabilities, take the process into a new direction in terms of the form and scale of the pieces. By cutting larger, more intricate moulds using Plymouth College of Art's digital equipment, I will then use these digitally made moulds to cast sculptural pieces using water-based resin; each piece will be unique in its form.
 
-Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+After much experimentation I came up with a moulding technique that is not resolved but I think has exciting potential for me to push further. I think that digital technologies should have a light footprint within craft , and not be used to replace skill, but to complement the maker; To provide the maker with opportunities which aren't possible by hand. 
 
-His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
-
-Est ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro.
-
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
-
-Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
+There are many people in the design/make field using technology, and I hope that this project is another example of using digital technolgy in this limited way. I am obviously wary of digital technology , but have been excited and impressed with what forms I can now make using the processes I employed. I feel I can use it in future projects to push the aesthetic of my work further while maintaining the 'hand-made' integrity of my work.
 
 
 

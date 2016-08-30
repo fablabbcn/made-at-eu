@@ -20,7 +20,7 @@ images:
   - image_path: /img/artists/maes/residencies-barcelona-maes-7
     title: Intelligent Guerilla Beehives
   - image_path: /img/artists/maes/residencies-barcelona-maes-6
-   title: Intelligent Guerilla Beehives
+    title: Intelligent Guerilla Beehives
   - image_path: /img/artists/maes/residencies-barcelona-maes-5
     title: Intelligent Guerilla Beehives
   - image_path: /img/artists/maes/residencies-barcelona-maes-4
@@ -28,7 +28,7 @@ images:
   - image_path: /img/artists/maes/residencies-barcelona-maes-3
     title: Intelligent Guerilla Beehives
   - image_path: /img/artists/maes/residencies-barcelona-maes-2
-    title:Intelligent Guerilla Beehives     
+    title: Intelligent Guerilla Beehives     
   - image_path: /img/artists/maes/residencies-barcelona-maes-1
     title: Intelligent Guerilla Beehives     
 
@@ -46,6 +46,7 @@ images3:
   - image_path3:    
 ---
 
+{% include video.html %}
 {% include photo-gallery.html %}
 
 An ‘Intelligent Guerilla Beehive’ is a functional sculpture, a shelter that provides a home for swarming bee colonies. The work focuses on the architecture of the beehive as a organic sculptural object.The biomimetic-inspired design (in form and matter) is shaped upon the needs of the bees: it has the the ideal inner volume for a developing colony, it is mobile and easily deployable on different spots in public space : e.g. attached to the wall of a building or secured on the branch of a tree - or the objects can find a place as a stand-alone sculpture on the terrace of a city apartment. 
