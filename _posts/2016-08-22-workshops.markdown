@@ -5,8 +5,8 @@ description:
 layout: posts
 date: 2014-07-18
 img: residencies.jpg
-thumbnail: /img/mosaic/workshops.png
-permalink: /img/mosaic/workshops_par.jpg
+thumbnail: 
+permalink: /workshops
 hasvideo: true
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
@@ -49,21 +49,45 @@ images3:
   - image_path3:    
 ---
 
-
-
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Expetenda tincidunt in sed, ex partem placerat sea, porro commodo ex eam. His putant aeterno interesset at. Usu ea mundi tincidunt, omnium virtute aliquando ius ex. Ea aperiri sententiae duo. 
-
 {% include photo-gallery.html %}
 
-Usu nullam dolorum quaestio ei, sit vidit facilisis ea. Per ne impedit iracundia neglegentur. Consetetur neglegentur eum ut, vis animal legimus inimicus id.
+The Made@EU project also consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam, designed to accomplish the following goals:  
 
-His audiam deserunt in, eum ubique voluptatibus te. In reque dicta usu. Ne rebum dissentiet eam, vim omnis deseruisse id. Ullum deleniti vituperata at quo, insolens complectitur te eos, ea pri dico munere propriae. Vel ferri facilis ut, qui paulo ridens praesent ad. Possim alterum qui cu. Accusamus consulatu ius te, cu decore soleat appareat usu.
+• To directly impact the bridging of the “digital divide”;
 
-Est ei erat mucius quaeque. Ei his quas phaedrum, efficiantur mediocritatem ne sed, hinc oratio blandit ei sed. Blandit gloriatur eam et. Brute noluisse per et, verear disputando neglegentur at quo. Sea quem legere ei, unum soluta ne duo. Ludus complectitur quo te, ut vide autem homero pro.
+• To foster and curate the creation of products and projects which clearly represent theobjectives of the Made@EU project;
 
-Vis id minim dicant sensibus. Pri aliquip conclusionemque ad, ad malis evertitur torquatos his. Has ei solum harum reprimique, id illum saperet tractatos his. Ei omnis soleat antiopam quo. Ad augue inani postulant mel, mel ea qualisque forensibus.
+• To test the educational contents being developed for the platform;
 
-Lorem salutandi eu mea, eam in soleat iriure assentior. Tamquam lobortis id qui. Ea sanctus democritum mei, per eu alterum electram adversarium. Ea vix probo dicta iuvaret, posse epicurei suavitate eam an, nam et vidit menandri. Ut his accusata petentium.  
+• To create a pool of participants from which the participants of the residency program can be selected;
+
+• To promote the Made@EU project and online platform;
+
+The target audience for these workshops are all members from the European creative sectors such as product designers, fashion designers, craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.
+
+The Workshops are based on a 5 day BootCamp model developed by the FabLab Network and involve both theoretic and practical instruction centred around the following digital fabrication tools:
+
+• 3D Printing
+
+• 3D Scanning
+
+• Laser Cutting
+
+• CNC Milling
+
+• PCB Milling
+
+• Moulding and Casting
+
+• Plasma Cutting
+
+• Vinyl Cutting
+
+Participants not only receive theoretic instruction on each process, but also take an active role and acquire hands on experience in the use of all equipment. Aspects such as maintenance, safety and emergency procedures are also covered.
+
+The workshops are taught by one local instructor and one instructor from one of the partner institutions order to promote the cross flow of knowledge between experts from the different partners.
+
+
 
 
 

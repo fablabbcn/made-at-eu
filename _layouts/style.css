@@ -46,6 +46,8 @@ p {
     line-height: 1.7;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.color.secondary }};
+    margin-top: 0em;
+    margin-bottom: 1.3em;
 
 }
 
@@ -546,7 +548,7 @@ section#content-mosaic {
     vertical-align: middle;
     color: transparent;
     text-decoration: none;
-    /*opacity: 1;*/
+    text-transform: uppercase;
 }
 
 .subtitle {

@@ -1,16 +1,16 @@
 ---
-title: Made@Eu Residencies
+title: Made@Eu Workshops
 showdescription: false
 description: 
 layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /residencies
+permalink: /exhibitions
 hasvideo: true
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
-gallerytitle: Barcelona Residency @Fab Lab Barcelona
+gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura
 images:
   - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
     title: Batuque, piece by Ricardo O'Nascimento
@@ -26,7 +26,7 @@ images:
     title: Guerrilla Beehives by Annemie Maes 
 
 hasgallery2: true        
-gallerytitle2: Plymouth Residency @Plymouth College of Arts   
+gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
 images2:
   - image_path2: /img/residencies/plymouth/residencies-plymouth-west
     title: Jack West 
@@ -41,23 +41,23 @@ images2:
   - image_path2: /img/residencies/plymouth/residencies-plymouth-cuttance
     title: Phil Cuttance  
 
-hasgallery3: false    
-gallerytitle3:  
+hasgallery3: true    
+gallerytitle3: Paris Workshops @ENSCI  
 images3:
   - image_path3: 
   - image_path3: 
   - image_path3:    
 ---
 
-One of the main goals of the Made@Eu Project is the creation of residency programmesfor creative professionals to develop projects that explore the integration of 3-D digital fabrication systems into their processes of design and production, to realize a new outcome. Residencies take place in Barcelona, Paris and Plymouth, facilitating cross-European mobility of creators and generating international opportunities for emerging talent.  
+One of the priorities of the Made@Eu project is the organisation of three exhibitions, which, together with the extra european diffusion activities, demonstrate that the Made@EU project is attuned to the need to support international cultural activities, such as for instance exhibitions, exchanges and festivals.
 
 {% include photo-gallery.html %}
 
-The participants selected for the residencies fall within the target group of the Made@EU project, namely designers, craftspeople and artists. They are tasked with the development of a project which represents their background, previous body of work and area of expertise whilst at the same time ingrates the digital fabrication techniques learned at the workshop session offered to them.
+These exhibitions are directed not only to designers and members of the creative community but also to the general public in order to direct interest of consumers to Made@EU online platform and to European creative works in general.
 
-Thus, participants are granted access to the digital fabrication equipment available not only at the partners institution where they are located but if required, also to specific equipment available at the facilities of other partners. They also receive continuous guidance and support from the local digital fabrication team as well as experts from the other institutions.
+The Barcelona exhibition is be organised by IAAC, showcasing projects resulting from all residencies. Paris’ and Plymouth’s exhibitions are coordinated by ENSCI and PCA respectively, and take place at their facilities.
 
-Residencies take place simultaneously in all partner cities, with a duration between 4 and 8 weeks depending on the complexity and ambition of each project.  
+
 
 
 
