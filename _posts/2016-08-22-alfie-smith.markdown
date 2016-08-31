@@ -25,14 +25,10 @@ images:
     title: Alfie Smith
   - image_path: /img/artists/smith/residencies-plymouth-smith-5
     title: Alfie Smith    
-  - image_path: /img/artists/smith/residencies-plymouth-smith-5
-    title: Alfie Smith
   - image_path: /img/artists/smith/residencies-plymouth-smith-4
     title: Alfie Smith  
-  - image_path: /img/artists/smith/residencies-plymouth-smith-3
-    title: Alfie Smith 
   - image_path: /img/artists/smith/residencies-plymouth-smith-2
-    title: Alfie Smith
+    title: Alfie Smith 
   - image_path: /img/artists/smith/residencies-plymouth-smith-1
     title: Alfie Smith                           
 hasgallery2: false       
