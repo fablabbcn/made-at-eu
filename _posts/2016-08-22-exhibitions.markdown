@@ -8,40 +8,49 @@ img:
 thumbnail: 
 permalink: /exhibitions
 hasvideo: false
-video_embed: https://player.vimeo.com/video/133676785?color=ff9933
+video_embed: 
 hasgallery1: true   
-gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura
+gallerytitle: Barcelona Exhibition @In(3D)ustry Additive & Advanced Manufacturing Global Hub 2016
 images:
-  - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
-    title: Batuque, piece by Ricardo O'Nascimento
-  - image_path: /img/residencies/barcelona/residencies-barcelona-rizzuti-2
-    title: Cristian Rizzuti
-  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol
-    title: Sculpture process by Ludovic Mallegol
-  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol-2
-    title: Sculpture process by Ludovic Mallegol
-  - image_path: /img/residencies/barcelona/residencies-barcelona-torre
-    title: Roman Torre 
-  - image_path: /img/residencies/barcelona/residencies-barcelona-annemie
-    title: Guerrilla Beehives by Annemie Maes 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-1
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-2
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-3
+    title:  
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-4
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-5
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-6
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-7
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-8
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-9
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-10
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-11
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-12
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-13
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-14
+    title: 
+  - image_path: /img/exhibitions/barcelona/exhibitions-barcelona-15
+    title: 
 
-hasgallery2: true        
-gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
+hasgallery2: false       
+gallerytitle2: 
 images2:
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-west
-    title: Jack West 
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-smith
-    title: Alfie Smith
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-martinez
-    title: Adriana Martinez
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-ionascu
-    title: Adriana Ionascu
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-bush
-    title: Matthew Bush
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-cuttance
-    title: Phil Cuttance  
+  - image_path2:
+    title:
+  - image_path2: 
 
-hasgallery3: true    
+hasgallery3: false  
 gallerytitle3: Paris Workshops @ENSCI  
 images3:
   - image_path3: 
@@ -50,6 +59,8 @@ images3:
 ---
 
 One of the priorities of the Made@Eu project is the organisation of three exhibitions, which, together with the extra european diffusion activities, demonstrate that the Made@EU project is attuned to the need to support international cultural activities, such as for instance exhibitions, exchanges and festivals.
+
+{% include photo-gallery.html %}
 
 These exhibitions are directed not only to designers and members of the creative community but also to the general public in order to direct interest of consumers to Made@EU online platform and to European creative works in general.
 
