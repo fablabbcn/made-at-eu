@@ -69,6 +69,7 @@ a.active {
 
 a {
     color: #{{ site.color.secondary }};
+    cursor: pointer;
 }
 
 a:hover,
