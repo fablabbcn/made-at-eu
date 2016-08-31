@@ -51,7 +51,9 @@ images3:
 
 One of the main goals of the Made@Eu Project is the creation of residency programmesfor creative professionals to develop projects that explore the integration of 3-D digital fabrication systems into their processes of design and production, to realize a new outcome. Residencies take place in Barcelona, Paris and Plymouth, facilitating cross-European mobility of creators and generating international opportunities for emerging talent.  
 
-{% include photo-gallery.html %}
+{% include mosaic-artists.html %}
+
+<br>
 
 The participants selected for the residencies fall within the target group of the Made@EU project, namely designers, craftspeople and artists. They are tasked with the development of a project which represents their background, previous body of work and area of expertise whilst at the same time ingrates the digital fabrication techniques learned at the workshop session offered to them.
 
