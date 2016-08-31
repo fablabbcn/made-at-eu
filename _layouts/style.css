@@ -144,6 +144,13 @@ black border and white background*/
 
 }
 
+.btn-primary.inverted { 
+    background-color: #{{ site.color.secondary }};
+    color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.secondary }};
+    color: #ffffff;;
+}
+
 
 .btn-primary:hover,
 .btn-primary:focus,
