@@ -28,40 +28,40 @@ social:
     url: https://www.youtube.com/channel/UCCs0fOFV2rmjRX18rd4U0jw    
 
 
-    # Team names, titles and social links
-    people:
-    - name: Kay Garland
-      pic: 1
-      position: Lead Designer
-      social:
-        - title: twitter
-          url: #
-        - title: facebook
-          url: #
-        - title: stack-overflow
-          url: #
+# Team names, titles and social links
+people:
+- name: 
+  pic: 1
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 
-    - name: Larry Parker
-      pic: 2
-      position: Lead Marketer
-      social:
-        - title: twitter
-          url: #
-        - title: facebook
-          url: #
-        - title: linkedin
-          url: #
+- name: 
+  pic: 2
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
-    - name: Diana Petersen
-      pic: 3
-      position: Lead Developer
-      social:
-        - title: twitter
-          url: #
-        - title: facebook
-          url: #
-        - title: google-plus
-          url: #
+- name: 
+  pic: 3
+  position: 
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
 
 # Postal address (add as many lines as necessary)
