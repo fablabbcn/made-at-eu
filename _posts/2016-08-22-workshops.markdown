@@ -10,7 +10,7 @@ permalink: /workshops
 hasvideo: true
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
-gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura
+gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura / Barcelona
 images:
   - image_path: /img/workshops/barcelona/workshops-barcelona-1
     title: Barcelona Workshop @Green Fab Lab Valldaura
@@ -76,7 +76,7 @@ images2:
   - image_path2: /img/workshops/plymouth/workshops-plymouth-15
     title:
 hasgallery3: true    
-gallerytitle3: Budapest Workshops  
+gallerytitle3: Budapest Workshops @Fab Lab Budapest
 images3:
   - image_path3: /img/workshops/budapest/workshops-budapest-1
     title:
