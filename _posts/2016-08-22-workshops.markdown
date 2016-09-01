@@ -147,7 +147,13 @@ images4:
   - image_path4: /img/workshops/paris/workshops-paris-17
     title: 
   - image_path4: /img/workshops/paris/workshops-paris-18
-    title:              
+    title:  
+
+hasgallery5: true    
+gallerytitle5: Amsterdam Workshop @Fab Lab Amsterdam  
+images5:
+  - image_path5: /img/workshops/amsterdam/
+    title:                
  
 ---
 

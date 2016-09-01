@@ -51,6 +51,18 @@
 		</div>
 	{% endif %}
 
+	{% if page.hasgallery5 == true %}
+		<h3 class="section-sub-subheading"> {{page.gallerytitle5 }} </h3>
+		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
+			{% for image in page.images5 %}
+				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path5 }}.jpg" data-href="{{ image.image_path5.jpg }}" data-target="#image-gallery">
+					<div class="col-md-4" style="background-image: url({{ image.image_path5 }}-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;">
+					</div>
+           		</a>
+		    {% endfor %}
+		</div>
+	{% endif %}
+
 
 </div>
 
