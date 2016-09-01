@@ -1126,7 +1126,7 @@ ul.social-buttons li a:active {
 
 ::selection {
     text-shadow: none;
-    /*background: #{{ site.color.primary }};*/
+    background: #{{ site.color.primary }};
 }
 
 img::selection {
