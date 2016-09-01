@@ -8,8 +8,8 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /artists/matthew-bush
-hasvideo: false
-video_embed: https://player.vimeo.com/video/133676785?color=ff9933
+hasvideo: true
+video_embed: https://www.youtube.com/embed/P0cHlOLIRo8
 hasgallery1: true   
 gallerytitle: 
 images:

@@ -8,8 +8,8 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /artists/mark-von-rosenstiel
-hasvideo: false
-video_embed: https://player.vimeo.com/video/133676785?color=ff9933
+hasvideo: true
+video_embed: https://www.youtube.com/embed/bu4uPldeHGs
 hasgallery1: true   
 gallerytitle: 
 images:
@@ -45,6 +45,8 @@ images3:
   - image_path3: 
   - image_path3:    
 ---
+
+{% include video.html %}
 {% include photo-gallery.html %}
 
 Mark von Rosenstiel wanted to explore the way objects take on identity through the creation of abstracted objects, which he then documented through a written correspondence with them. 

@@ -8,8 +8,8 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /artists/adriana-ionascu
-hasvideo: false
-video_embed: https://player.vimeo.com/video/133676785?color=ff9933
+hasvideo: true
+video_embed: https://www.youtube.com/embed/c_yLYCltQoo
 hasgallery1: true   
 gallerytitle: 
 images:  
@@ -51,6 +51,7 @@ images3:
   - image_path3:    
 ---
 
+{% include video.html %}
 {% include photo-gallery.html %}
 
 The project aims to address the spatiality of domestic / public spaces and to re-appropriate the clay medium to the interior design of buildings.
