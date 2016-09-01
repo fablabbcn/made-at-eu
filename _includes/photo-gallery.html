@@ -38,6 +38,20 @@
 		    {% endfor %}
 		</div>
 	{% endif %}
+
+	{% if page.hasgallery4 == true %}
+		<h3 class="section-sub-subheading"> {{page.gallerytitle4 }} </h3>
+		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
+			{% for image in page.images4 %}
+				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path4 }}.jpg" data-href="{{ image.image_path4.jpg }}" data-target="#image-gallery">
+					<div class="col-md-4" style="background-image: url({{ image.image_path4 }}-thumb.jpg); background-position: center center; background-attachment: scroll; background-size: cover;">
+					</div>
+           		</a>
+		    {% endfor %}
+		</div>
+	{% endif %}
+
+
 </div>
 
 <!--Modals --> 

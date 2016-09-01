@@ -107,7 +107,47 @@ images3:
   - image_path3: /img/workshops/budapest/workshops-budapest-14
     title:
   - image_path3: /img/workshops/budapest/workshops-budapest-15
-    title:                
+    title:    
+
+hasgallery4: true    
+gallerytitle4: Paris Workshops @ENSCI   
+images4:
+  - image_path4: /img/workshops/paris/workshops-paris-1
+    title:
+  - image_path4: /img/workshops/paris/workshops-paris-2
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-3
+    title:   
+  - image_path4: /img/workshops/paris/workshops-paris-4
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-5
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-6
+    title:   
+  - image_path4: /img/workshops/paris/workshops-paris-7
+    title:
+  - image_path4: /img/workshops/paris/workshops-paris-8
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-9
+    title:   
+  - image_path4: /img/workshops/paris/workshops-paris-10
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-11
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-12
+    title:  
+  - image_path4: /img/workshops/paris/workshops-paris-13
+    title:
+  - image_path4: /img/workshops/paris/workshops-paris-14
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-15
+    title:   
+  - image_path4: /img/workshops/paris/workshops-paris-16
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-17
+    title: 
+  - image_path4: /img/workshops/paris/workshops-paris-18
+    title:              
  
 ---
 
