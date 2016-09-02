@@ -1,4 +1,4 @@
-$.getJSON("http://twitter.madeat.eu/1.1/statuses/user_timeline.json?screen_name=madeateu&count=1", function(data) {
+$.getJSON("https://twitter.madeat.eu/1.1/statuses/user_timeline.json?screen_name=madeateu&count=1", function(data) {
   var tweet = linkify(data[0].text);
   $('.tweet').html(tweet);
 });

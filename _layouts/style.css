@@ -553,7 +553,7 @@ section#content-mosaic {
     width:100%;  
     text-align: center;     
     vertical-align: middle;
-    padding: 60px 50px 20px 20px;
+    padding: 35px 50px 20px 20px;
     text-align: right;
 }
 
@@ -561,6 +561,11 @@ section#content-mosaic {
     text-decoration: none;
     color: #000000;
     }
+
+.tweet a {
+     text-decoration: underline;
+}
+
 
 .mosaic-subtitle{
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
