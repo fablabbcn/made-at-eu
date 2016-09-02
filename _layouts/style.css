@@ -144,6 +144,7 @@ black border and white background*/
 
 }
 
+/*--> white option inverted*/
 .btn-primary.inverted { 
     background-color: #{{ site.color.secondary }};
     color: #{{ site.color.secondary }};
@@ -151,6 +152,20 @@ black border and white background*/
     color: #ffffff;;
 }
 
+/*-Option for tags and smaller sized buttons*/
+
+.tag {
+    font-size: 12px;
+    padding: 5px 20px;    
+    margin: 0px;
+}
+
+/* Right align button option */
+
+.right-align {
+    position: absolute;
+    right: 5% ;
+}
 
 .btn-primary:hover,
 .btn-primary:focus,
@@ -243,10 +258,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 
-.right-align {
-    position: absolute;
-    right: 5% ;
-}
+
 
 
 /*---NAVIGATION BAR--*/ 
@@ -1309,6 +1321,17 @@ body {
 .cr-yellow    { background-color: #ec0; }
 
 
+/* customization for location tags in posts */
+
+.location {
+        position: static;
+    }
+
+@media (min-width: 680px) {
+    .location {
+        position: absolute;
+    } 
+}
 
 
 

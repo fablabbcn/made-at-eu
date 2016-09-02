@@ -3,6 +3,8 @@ title: Jack West
 showdescription: true
 description: Artist and sculptor
 project: Modelling the Machine
+showlocation: true
+location: Plymouth College of Art 
 layout: posts
 date: 2014-07-18
 img: 
