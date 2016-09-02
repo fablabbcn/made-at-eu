@@ -168,10 +168,9 @@ images5:
     title: 
   - image_path5: /img/workshops/amsterdam/workshops-amsterdam-9
     title:
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-10
+    title:
 
-
-
- 
 ---
 
 The Made@EU project also consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam.
