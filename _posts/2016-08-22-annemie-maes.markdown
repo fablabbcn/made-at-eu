@@ -3,6 +3,8 @@ title: Annemie Maes
 showdescription: true
 description: Artist and a researcher
 project: Intelligent Guerilla Beehives
+showlocation: true
+location: Fab Lab Barcelona
 layout: posts
 date: 2014-07-18
 img: 

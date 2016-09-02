@@ -3,6 +3,8 @@ title: Phil Cuttance
 showdescription: true
 description: Designer and maker
 project: Advanced resin casting project
+showlocation: true
+location: Plymouth College of Art 
 layout: posts
 date: 2014-07-18
 img: 

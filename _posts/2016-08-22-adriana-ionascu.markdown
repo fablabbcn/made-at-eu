@@ -3,6 +3,8 @@ title: Adriana Ionascu
 showdescription: true
 description: Artist and researcher
 project: InterSpaces Prototypes
+showlocation: true
+location: Plymouth College of Art 
 layout: posts
 date: 2014-07-18
 img: 

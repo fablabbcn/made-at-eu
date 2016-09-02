@@ -3,6 +3,8 @@ title: Roman Torre
 showdescription: true
 description: Media artist
 project: Liquid series Melancholia II
+showlocation: true
+location: Fab Lab Barcelona
 layout: posts
 date: 2014-07-18
 img: 

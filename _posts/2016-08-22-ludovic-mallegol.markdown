@@ -3,6 +3,8 @@ title: Ludovic Mallegol
 showdescription: true
 description: Designer and researcher
 project: The Robot's Secret
+showlocation: true
+location: Fab Lab Barcelona 
 layout: posts
 date: 2014-07-18
 img: 

@@ -3,6 +3,8 @@ title: Alfie Smith
 showdescription: true
 description: Artist
 project: Printing In Pate De Verre
+showlocation: true
+location: Plymouth College of Art 
 layout: posts
 date: 2014-07-18
 img: 

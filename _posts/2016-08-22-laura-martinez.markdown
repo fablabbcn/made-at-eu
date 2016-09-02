@@ -3,6 +3,8 @@ title: Laura Martinez
 showdescription: true
 description: Material and surface designer
 project: Generative Goldwork Collection
+showlocation: true
+location: Plymouth College of Art 
 layout: posts
 date: 2014-07-18
 img: 

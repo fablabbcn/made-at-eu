@@ -3,6 +3,8 @@ title: Ricardo O'Nascimento
 showdescription: true
 description: Media artist
 project: Batuque interactive garment
+showlocation: true
+location: Fab Lab Barcelona
 layout: posts
 date: 2014-07-18
 img: residencies.jpg
