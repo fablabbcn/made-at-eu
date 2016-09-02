@@ -11,7 +11,7 @@ img:
 thumbnail: 
 permalink: /artists/jack-west
 hasvideo: true
-video_embed: https://www.youtube.com/embed/mwiyl6tM15k
+video_embed: https://www.youtube.com/embed/jmntBWsRQ8M
 hasgallery1: true   
 gallerytitle: 
 images:

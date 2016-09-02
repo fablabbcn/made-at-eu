@@ -11,7 +11,7 @@ img:
 thumbnail: 
 permalink: /artists/matthew-bush
 hasvideo: true
-video_embed: https://www.youtube.com/embed/P0cHlOLIRo8
+video_embed: https://www.youtube.com/embed/_82Dt-WQEEY
 hasgallery1: true   
 gallerytitle: 
 images:

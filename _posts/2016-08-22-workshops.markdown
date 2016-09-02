@@ -4,7 +4,7 @@ showdescription: false
 description: 
 layout: posts
 date: 2014-07-18
-img: residencies.jpg
+img: 
 thumbnail: 
 permalink: /workshops
 hasvideo: true
@@ -152,8 +152,25 @@ images4:
 hasgallery5: true    
 gallerytitle5: Amsterdam Workshop @Fab Lab Amsterdam  
 images5:
-  - image_path5: /img/workshops/amsterdam/
-    title:                
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-1
+    title:  
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-2
+    title:    
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-3
+    title: 
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-4
+    title: 
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-5
+    title: 
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-6
+    title: 
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-8
+    title: 
+  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-9
+    title:
+
+
+
  
 ---
 

@@ -11,7 +11,7 @@ img:
 thumbnail: 
 permalink: /artists/alfie-smith
 hasvideo: true
-video_embed: https://www.youtube.com/embed/z9RhIBCF0qE
+video_embed: https://www.youtube.com/embed/Bm9g-3oI8aA
 hasgallery1: true   
 gallerytitle: 
 images:

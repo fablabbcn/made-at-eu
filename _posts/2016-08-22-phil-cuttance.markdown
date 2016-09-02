@@ -11,7 +11,7 @@ img:
 thumbnail: 
 permalink: /artists/phil-cuttance
 hasvideo: true
-video_embed: https://www.youtube.com/embed/uZxWTaoytLE
+video_embed: https://www.youtube.com/embed/pf-9dpK1Wtw
 hasgallery1: true   
 gallerytitle: 
 images:

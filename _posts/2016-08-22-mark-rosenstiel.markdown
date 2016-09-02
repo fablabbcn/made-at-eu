@@ -11,7 +11,7 @@ img:
 thumbnail: 
 permalink: /artists/mark-von-rosenstiel
 hasvideo: true
-video_embed: https://www.youtube.com/embed/bu4uPldeHGs
+video_embed: https://www.youtube.com/embed/EyCpAPYZ4O4
 hasgallery1: true   
 gallerytitle: 
 images:

@@ -11,7 +11,7 @@ img:
 thumbnail: 
 permalink: /artists/adriana-ionascu
 hasvideo: true
-video_embed: https://www.youtube.com/embed/c_yLYCltQoo
+video_embed: https://www.youtube.com/embed/AnTObS4TcwM
 hasgallery1: true   
 gallerytitle: 
 images:  
