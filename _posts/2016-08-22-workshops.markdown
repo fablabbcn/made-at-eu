@@ -7,8 +7,6 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /workshops
-hasvideo: true
-video_embed: https://player.vimeo.com/video/133676785?color=ff9933
 hasgallery1: true   
 gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura / Barcelona
 images:
@@ -42,6 +40,9 @@ images:
     title: Barcelona Workshop @Green Fab Lab Valldaura
   - image_path: /img/workshops/barcelona/workshops-barcelona-18
     title: Barcelona Workshop @Green Fab Lab Valldaura
+hasvideo1: true
+video_embed1: https://www.youtube.com/embed/YJNaPONnDnc
+
 hasgallery2: true        
 gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
 images2:
@@ -75,6 +76,9 @@ images2:
     title:
   - image_path2: /img/workshops/plymouth/workshops-plymouth-15
     title:
+hasvideo2: false
+video_embed2:
+
 hasgallery3: true    
 gallerytitle3: Budapest Workshops @Fab Lab Budapest
 images3:
@@ -108,6 +112,8 @@ images3:
     title:
   - image_path3: /img/workshops/budapest/workshops-budapest-15
     title:    
+hasvideo3: false
+video_embed3: 
 
 hasgallery4: true    
 gallerytitle4: Paris Workshops @ENSCI   
@@ -148,6 +154,8 @@ images4:
     title: 
   - image_path4: /img/workshops/paris/workshops-paris-18
     title:  
+hasvideo4: true
+video_embed4: https://www.youtube.com/embed/u8hV8oeY3Lw    
 
 hasgallery5: true    
 gallerytitle5: Amsterdam Workshop @Fab Lab Amsterdam  
@@ -170,12 +178,14 @@ images5:
     title:
   - image_path5: /img/workshops/amsterdam/workshops-amsterdam-10
     title:
+hasvideo5: true
+video_embed5: https://www.youtube.com/embed/zLBzvL5Td4A    
 
 ---
 
 The Made@EU project also consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam.
 
-{% include photo-gallery.html %}
+{% include photo-gallery-workshops.html %}
 
 These workshops are designed to accomplish the following goals:  
 
