@@ -57,7 +57,11 @@ I anticipate using traditional techniques to aid the printing and firing of the 
 
 I intend to use the digital tools and processes to improve and modify the delta printer to create a more effective machine. Using autodesk software to create relevant files ideal for printing the glass paste. Also, the processes may involve the introduction of supports and props to support the printing and firing of the pieces, this will involve the use of 3D printers or CAD-CAM machinery.
 
+-------
  
+Alfie Smith is a student a his final year of a BA Hons degree in Applied Arts at Wolverhampton University. His work is currently exploring the application of 3D printing in ceramics, focusing on creating modular forms that connect together to create vessels and sculptures.
+
+
 
 
 

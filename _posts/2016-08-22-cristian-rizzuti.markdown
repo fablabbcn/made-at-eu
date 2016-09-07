@@ -52,9 +52,10 @@ After a study on the anatomy of the body and the expansion of the muscles, the s
 
 Elastica becomes an interface instrument for the performer, creating real-time dialogue between fashion and dance, wearable technologies and data visualisation. 
 
-See more at: [http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf](http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf)
+
+-------
+
+Cristian Rizzuti is a multimedia artist that draws inspiration from science and mathematics, and his work revolves around digital arts, live media and interactive experiments. Rizzuti's research is focused on the role of human perception, synesthetic spaces and the art/science double bond. The main theme of his works is based on light sculpture installations, emotional sounds and body.
 
 
-
-
-
+#### For more info visit: [http://www.cristianrizzuti.com/](http://www.cristianrizzuti.com/)

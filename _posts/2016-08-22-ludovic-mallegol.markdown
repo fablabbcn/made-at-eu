@@ -50,10 +50,12 @@ Traditional carving tools and a hot wire cutter are attached on 6 axis industria
 
 The Robot’s secret works on the idea of materialising the invisible sound waves into touchable ceramic pieces. The sound input generates the robotic movement, leaving its trace on the ceramic piece. 
 
-See more at: [http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf](http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf) 
+-------
+
+Ludovic Mallegol is a designer focused on the question of making visible the invisible. This question is at the center of his artistic reasearch: how to make tangible the sensitive, how to materialize it? What is the form of a concept? His technical and artistic double profile allows him to seek answers to this questions through diverse media, thus materializing his projects using cartography, serigraphy, installations, parametric architecture, design, robotics or editing.
 
 
-
+#### For more info visit: [http://www.ludovicmallegol.com/](http://www.ludovicmallegol.com/)
 
 
 

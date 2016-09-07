@@ -62,7 +62,16 @@ Although making-up space, interior walls in domestic and public spaces are usual
 
 Clay is considered overly traditional and not modern enough, yet it remains a practical, reliable, human-friendly material. Fired ceramics has contributed historically to the physicality and materiality of buildings (tile, brickwork, moulded, hand-crafted ornaments and surface decoration) yet the material has hardly been contemporised artistically. Ceramic materials have a domestic presence - from the physicality and materiality of buildings to the ritual connotations of domestic ware, clay proves to be a valuable medium of production. 
 
-Based on material and digital experimentation, Adriana proposes to reconsider the identity of interior walls and thus to reconsider clay materials, aesthetic qualities, functionality and space references, readdressing their visual expression. Her intention is to alter the ways in which we relate to space, proposing a different interaction.
+Based on material and digital experimentation, Adriana proposes to reconsider the identity of interior walls and thus to reconsider clay materials, aesthetic qualities, functionality and space references, readdressing their visual expression. Her intention is to alter the ways in which we relate to space, proposing a different interaction.  
+
+-------
+
+Adriana Ionascu is an artist and reasercher whose work explores how objects and people perform and how people perform in relation to objects. She focuses on the relationships between users and domestic artefacts handled within preset social practices - which define the body as a product of social and cultural intervention. The work is concerned with the connections between ceramics and textile as familiar materials in the domestic milieu and with a particular closeness to the human body. 
+
+#### For more info visit: [http://www.dccoi.ie/directory/clients/member/22324](http://www.dccoi.ie/directory/clients/member/22324)
+
+
+
 
 
 

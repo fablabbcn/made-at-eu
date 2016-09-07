@@ -69,5 +69,3 @@ The Barcelona exhibition is be organised by IAAC, showcasing projects resulting 
 
 
 
-
-

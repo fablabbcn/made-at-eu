@@ -329,7 +329,7 @@ fieldset[disabled] .btn-xl.active {
 
 @media(min-width:768px) {
     .navbar-default .navbar-collapse {
-        padding-top: 18px;
+        padding-top: 0px;
     }
 }
 

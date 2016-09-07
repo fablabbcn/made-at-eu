@@ -56,8 +56,10 @@ Mark von Rosenstiel wanted to explore the way objects take on identity through t
 He created a variety of plaster objects and one chair seat along with a selection of writings and sketches. 
 
 
+-------
 
+Mark Rosenstiel is an artist curently working mostly with installations and sculptures augmented with technology. The concepts of his work draw heavily from mathematics and mathematical­ based thinkers. He likes to examine how the internal/external space of people can be explored in an emotionally relevant way using mathematical algorithms.
 
-
+#### For more info visit: [http://www.markvonrosenstiel.com/](http://www.markvonrosenstiel.com/)
 
 

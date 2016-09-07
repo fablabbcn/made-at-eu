@@ -59,10 +59,11 @@ The sensors give the intelligent sculpture a futuristic view, and make it entire
 
 Nowadays Anne Marie Maes is part TRANSMUTATIONS the residents exhibition of the Wissenschaftskolleg zu Berlin with her installation The Raw and The Cooked. With this installation, a part of the – , she tests our knowledge of visual perception and smells of a range of materials. In very simple objects she shows us the undiscerned beauty that surrounds us and she celebrates the cycles of material interactions, a rhythm in the process of making where the arts meet nature. 
 
-See more at: [http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf](http://fablabbcn.org/news/2016/05/12/madeateu.html#sthash.UoTVrkH6.dpuf)
 
+-------
 
+Annemie Maes is an artist and researcher. Her work incorporates sculpture, photography, video, installation and public participation, and focuses projects that stimulate the development of a more sustainable world. Her research practice combines art and science with a strong interest for DIY technologies. Her installations and long term projects – such as the Transparent Beehive, Urban Corridors or the Politics of Change – use a range of biological, digital and traditional media, including live organisms. She makes use of technological mediation to search for new forms of communication with the natural world, to make the invisible visible. Maes is the founding director of the Urban Bee Lab and has for decades been a recognized leader pioneering art-science projects in Belgium, using highly original ways to bring out hidden structures in nature by constructing original technological methods to probe the living world and by translating that in artistic creations through sonification, visualization, sculptures, large-scale long-term installations, workshops, lectures and books. She has a strong international profile, having exhibited (amongst others) at Bozar in Brussels, Koç University Gallery in Istanbul, Borges Center in Buenos Aires, Bozar in Brussels, Arsenals Museum in Riga, Skolska Gallery in Prague, the Institute of Evolutionary Biology in Barcelona, the Designmuseum in Mons and the Wissenschaftskolleg in Berlin.
 
-
+#### For more info visit: [http://annemariemaes.net/](http://annemariemaes.net/)
 
 
