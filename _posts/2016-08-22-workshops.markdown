@@ -77,8 +77,8 @@ images2:
     title:
   - image_path2: /img/workshops/plymouth/workshops-plymouth-15
     title:
-hasvideo3: false
-video_embed3:     
+hasvideo3: true
+video_embed3: https://www.youtube.com/embed/pIopa8nbe3s    
 hasgallery3: true    
 gallerytitle3: Budapest Workshops @Fab Lab Budapest
 images3:
