@@ -17,7 +17,7 @@ gallerytitle:
 images:  
   - image_path: /img/artists/ionascu/residencies-plymouth-ionascu-12  
     title: Adriana Ionascu
-  - image_path: /img/artists/ionascu/residencies-plymouth-ionascu-11
+  - image_path: /img/artists/ionascu/residencies-plymouth-ionascu-13
     title: Adriana Ionascu
   - image_path: /img/artists/ionascu/residencies-plymouth-ionascu-10
     title: Adriana Ionascu
@@ -31,7 +31,7 @@ images:
     title: Adriana Ionascu
   - image_path: /img/artists/ionascu/residencies-plymouth-ionascu-5
     title: Adriana Ionascu
-  - image_path: /img/artists/ionascu/residencies-plymouth-ionascu-4
+  - image_path: /img/artists/ionascu/residencies-plymouth-ionascu-16
     title: Adriana Ionascu
   - image_path: /img/artists/ionascu/residencies-plymouth-ionascu-3
     title: Adriana Ionascu  
