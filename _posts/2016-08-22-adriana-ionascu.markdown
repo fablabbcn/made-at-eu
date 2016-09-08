@@ -64,9 +64,11 @@ Clay is considered overly traditional and not modern enough, yet it remains a pr
 
 Based on material and digital experimentation, Adriana proposes to reconsider the identity of interior walls and thus to reconsider clay materials, aesthetic qualities, functionality and space references, readdressing their visual expression. Her intention is to alter the ways in which we relate to space, proposing a different interaction.  
 
--------
+<div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
 
-Adriana Ionascu is an artist and reasercher whose work explores how objects and people perform and how people perform in relation to objects. She focuses on the relationships between users and domestic artefacts handled within preset social practices - which define the body as a product of social and cultural intervention. The work is concerned with the connections between ceramics and textile as familiar materials in the domestic milieu and with a particular closeness to the human body. 
+<b>Adriana Ionascu is an artist and reasercher</b> whose work explores how objects and people perform and how people perform in relation to objects. She focuses on the relationships between users and domestic artefacts handled within preset social practices - which define the body as a product of social and cultural intervention. The work is concerned with the connections between ceramics and textile as familiar materials in the domestic milieu and with a particular closeness to the human body. 
+
+</div>
 
 #### For more info visit: [http://www.dccoi.ie/directory/clients/member/22324](http://www.dccoi.ie/directory/clients/member/22324)
 

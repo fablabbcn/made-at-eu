@@ -58,10 +58,11 @@ Seeing as much of his previous work has been relatively large scale, it is inter
 "A funded residency where digital processes take centre stage would allow me to explore these technologies in ways that may be difficult otherwise" states West about the experience. 
 
  
--------
+<div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
 
-Jack West is a sculptor creating large-scale objects within the studio but also working on machine objects and landscapes digitally, using 3D technology to render out CGI videos. Using these two modes of working allows ideas and objects to transfer between the two spaces. This interplay between the digital and the real, and the ways in which machines as a whole affect our experience of work and labour is at the center of his practice.
+<b>Jack West is a sculptor</b> creating large-scale objects within the studio but also working on machine objects and landscapes digitally, using 3D technology to render out CGI videos. Using these two modes of working allows ideas and objects to transfer between the two spaces. This interplay between the digital and the real, and the ways in which machines as a whole affect our experience of work and labour is at the center of his practice.
 
+</div>
 
 #### For more info visit: [http://www.jackwest.co.uk/](http://www.jackwest.co.uk/)
 

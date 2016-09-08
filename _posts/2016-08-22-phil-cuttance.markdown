@@ -60,9 +60,10 @@ There are many people in the design/make field using technology, and he hopes th
 
 He claims he is wary of digital technology, but have been excited and impressed with what forms he can now make using the processes he employed. Cuttance feels he can use it in future projects to push the aesthetic of his work further while maintaining the 'hand-made' integrity of his work.
 
--------
+<div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
 
-Phil Cuttance is a designer/maker based in a shared studio in London. He moved to London six years ago from New Zealand where he had worked as a furniture designer for years, and set up his studio full time on arrival. He makes by hand most of the objects he produces in his studio. Cuttance occasionally collaborates with other makers/design brands and has worked with many materials and processes, but is currently spending the majority of his time casting objects using his Faceture process, his most successful project to date.
+<b>Phil Cuttance is a designer/maker</b> based in a shared studio in London. He moved to London six years ago from New Zealand where he had worked as a furniture designer for years, and set up his studio full time on arrival. He makes by hand most of the objects he produces in his studio. Cuttance occasionally collaborates with other makers/design brands and has worked with many materials and processes, but is currently spending the majority of his time casting objects using his Faceture process, his most successful project to date.
+</div>
 
 #### For more info visit: [www.philcuttance.com](www.philcuttance.com)
 

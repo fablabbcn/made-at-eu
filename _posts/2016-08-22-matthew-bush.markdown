@@ -61,9 +61,9 @@ Bush would like to question how the process of making adds value to material, by
 Overall, his aim is be to stay in the field of home furnishings, creating either decorative or functional objects. He would like to explore the possibility of making furniture ideally using fabrications processes combined with traditional processes.
 
 
--------
+<div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
 
-Matthew Bush is an artist whose approach to design is centred around making. He believes material engagement and knowledge of the making process is important and key to innovative design ideas, combined with curiosity and artistic thinking which encourage collaboration and experimentation. This mentality reinforced the ethos of his developing practice which challenges the potential of materials and craftsmanship though the use of traditional, modern and digital craft. 
-
+<b>Matthew Bush is an artist</b> whose approach to design is centred around making. He believes material engagement and knowledge of the making process is important and key to innovative design ideas, combined with curiosity and artistic thinking which encourage collaboration and experimentation. This mentality reinforced the ethos of his developing practice which challenges the potential of materials and craftsmanship though the use of traditional, modern and digital craft. 
+</div>
 
 #### For more info visit: [https://matthewbushmaker.wordpress.com/](https://matthewbushmaker.wordpress.com/)

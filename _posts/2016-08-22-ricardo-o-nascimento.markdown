@@ -45,8 +45,9 @@ The name “Batuque” is used to refer to the religion, especially before the 1
 The garment uses sensor technology and digital prototyping techniques, such as 3d printing and laser engraving, to create a magical and enjoyable experience. 
 
 
--------
+<div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
 
-Ricardo O'Nascimento is an artist and researcher on the field of new media and interactive art. He investigates body-environment relations focused on interface development for worn devices, interactive installations and hybrid environments. He is the founder of POPKALAB - a design/research studio focused on innovation on the field of wearable technology. He holds degree from PUC - SP , SENAC - SP and the University of Arts and Industrial Design Linz at the Interface Culture Department. Currently he works in his studio and teaches at some places.
+<b>Ricardo O'Nascimento</b> is an artist and researcher on the field of new media and interactive art. He investigates body-environment relations focused on interface development for worn devices, interactive installations and hybrid environments. He is the founder of POPKALAB - a design/research studio focused on innovation on the field of wearable technology. He holds degree from PUC - SP , SENAC - SP and the University of Arts and Industrial Design Linz at the Interface Culture Department. Currently he works in his studio and teaches at some places.
+</div>
 
 #### For more info visit: [http://www.onascimento.com/](http://www.onascimento.com/)

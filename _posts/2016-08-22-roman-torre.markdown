@@ -39,8 +39,9 @@ For a long period, theorists, mathematicians and art historians are trying to in
 
 In Melancholia I, the object consists of the physical sculptural recreation of the truncated polyhedron, where the different states of matter are narratively revealed to the viewer’s senses.This narration is achieved by the object rotating at its axis and augmented by projection mapping. The second part of the series, Melancholia II, the geometry itself breaks into two pieces, deforms and generates new shapes, distorts and comes back to its reconstruction.
 
--------
+<div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
 
-Roman Torre is an artist whose creative work in not confined to a specific format, although he usually uses digital tools intensively. Torre tries to mix technical curiosity and creativity with simple day to day experiences. He has experimented with diverse ways of implementing technology to interact phisically or virtually with light, sound, and visuals in real time. Torre has worked directing, producing and collaborating on audiovisual and interactive productions of all shapes and sizes, from small immersive installations to large scenic productions.
+<b>Roman Torre is an artist</b> whose creative work in not confined to a specific format, although he usually uses digital tools intensively. Torre tries to mix technical curiosity and creativity with simple day to day experiences. He has experimented with diverse ways of implementing technology to interact phisically or virtually with light, sound, and visuals in real time. Torre has worked directing, producing and collaborating on audiovisual and interactive productions of all shapes and sizes, from small immersive installations to large scenic productions.
+</div>
 
 #### For more info visit: [http://www.romantorre.net/](http://www.romantorre.net/)
