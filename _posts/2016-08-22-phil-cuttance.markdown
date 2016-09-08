@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /artists/phil-cuttance
+permalink: /phil-cuttance
 hasvideo: true
 video_embed: https://www.youtube.com/embed/pf-9dpK1Wtw
 hasgallery1: true   

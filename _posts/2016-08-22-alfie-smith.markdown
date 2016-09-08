@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /artists/alfie-smith
+permalink: /alfie-smith
 hasvideo: true
 video_embed: https://www.youtube.com/embed/Bm9g-3oI8aA
 hasgallery1: true   

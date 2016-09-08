@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /artists/mark-von-rosenstiel
+permalink: /mark-von-rosenstiel
 hasvideo: true
 video_embed: https://www.youtube.com/embed/EyCpAPYZ4O4
 hasgallery1: true   

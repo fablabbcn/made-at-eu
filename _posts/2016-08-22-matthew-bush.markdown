@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /artists/matthew-bush
+permalink: /matthew-bush
 hasvideo: true
 video_embed: https://www.youtube.com/embed/_82Dt-WQEEY
 hasgallery1: true   

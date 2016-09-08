@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /artists/annemie-maes
+permalink: /annemie-maes
 hasvideo: true
 video_embed: https://www.youtube.com/embed/PdFKq8aib7Q
 hasgallery1: true   

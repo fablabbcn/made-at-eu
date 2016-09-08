@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /artists/ludovic-mallegol
+permalink: /ludovic-mallegol
 hasvideo: true
 video_embed: https://www.youtube.com/embed/IzmmWfGXlJg
 hasgallery1: true   

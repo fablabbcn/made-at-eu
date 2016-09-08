@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /artists/cristian-rizzuti
+permalink: /cristian-rizzuti
 hasvideo: true
 video_embed: https://www.youtube.com/embed/sHvh7lWDqXc
 hasgallery1: true   

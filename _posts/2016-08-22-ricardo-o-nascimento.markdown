@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: residencies.jpg
 thumbnail: img/residencies/barcelona/residencies_barcelona_nascimento_thumb.png
-permalink: /artists/ricardo-o-nascimento
+permalink: /ricardo-o-nascimento
 video_embed: https://www.youtube.com/embed/Yqmento
 hasvideo: truedv4f4JilU
 hasgallery1: true   

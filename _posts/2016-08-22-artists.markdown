@@ -6,7 +6,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /artists-list
+permalink: /artists
 hasvideo: false
 video_embed: 
 hasgallery1: false   

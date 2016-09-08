@@ -9,7 +9,7 @@ layout: posts
 date: 2014-07-18
 img: 
 thumbnail:
-permalink: /artists/laura-martinez
+permalink: /laura-martinez
 hasvideo: true
 video_embed: https://www.youtube.com/embed/-g_82SS41bc
 hasgallery1: true   
