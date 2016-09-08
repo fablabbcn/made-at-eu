@@ -66,7 +66,7 @@ Based on material and digital experimentation, Adriana proposes to reconsider th
 
 <div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
 
-<b>Adriana Ionascu is an artist and reasercher</b> whose work explores how objects and people perform and how people perform in relation to objects. She focuses on the relationships between users and domestic artefacts handled within preset social practices - which define the body as a product of social and cultural intervention. The work is concerned with the connections between ceramics and textile as familiar materials in the domestic milieu and with a particular closeness to the human body. 
+<b>Adriana Ionascu is an artist and reasearcher</b> whose work explores how objects and people perform and how people perform in relation to objects. She focuses on the relationships between users and domestic artefacts handled within preset social practices - which define the body as a product of social and cultural intervention. The work is concerned with the connections between ceramics and textile as familiar materials in the domestic milieu and with a particular closeness to the human body. 
 
 </div>
 
