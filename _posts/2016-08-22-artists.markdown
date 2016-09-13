@@ -38,7 +38,6 @@ The participants selected for the residencies fall within the target group of th
 {% include mosaic-artists.html %}
 
 <br>
-<br>
 Thus, participants are granted access to the digital fabrication equipment available not only at the partners institution where they are located but if required, also to specific equipment available at the facilities of other partners. They also receive continuous guidance and support from the local digital fabrication team as well as experts from the other institutions.
 
 Residencies take place simultaneously in all partner cities, with a duration between 4 and 8 weeks depending on the complexity and ambition of each project.  

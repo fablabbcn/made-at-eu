@@ -1,16 +1,16 @@
 ---
-title: Made@Eu Workshop Amsterdam 
+title: Made@Eu Workshop Paris 
 showdescription: false
 description: 
 layout: posts
 date: 2014-07-18
 img: 
 thumbnail: 
-permalink: /workshops-ams
+permalink: /workshops-par
 hasvideo: false
 video_embed: 
 hasgallery1: true   
-gallerytitle: Amsterdam Workshop @Fab Lab Amsterdam   
+gallerytitle: Paris Workshop @ENSCI Les Ateliers  
 images:
   - image_path: /img/workshops/paris/workshops-paris-1
     title:
