@@ -1,7 +1,7 @@
 ---
 title: Matthew Bush
 showdescription: true
-description: Artist
+description: 3d Designer and maker
 project: Layered and clay
 showlocation: true
 location: Plymouth College of Art 
