@@ -7,196 +7,42 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /workshops
-hasvideo1: true
-video_embed1: https://www.youtube.com/embed/YJNaPONnDnc
-hasgallery1: true   
-gallerytitle: Barcelona Workshops @Green Fab Lab Valldaura / Barcelona
+hasvideo: false
+video_embed: 
+hasgallery1: false   
+gallerytitle: 
 images:
-  - image_path: /img/workshops/barcelona/workshops-barcelona-1
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-2
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-3
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-4
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-5
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-6
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-7
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-8
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-9
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-10
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-11
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-12
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-13
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-15
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-  - image_path: /img/workshops/barcelona/workshops-barcelona-18
-    title: Barcelona Workshop @Green Fab Lab Valldaura
-hasvideo2: false
-video_embed2:     
-hasgallery2: true        
-gallerytitle2: Plymouth Workshops @Plymouth College of Arts   
-images2:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-1
+  - image_path: 
     title: 
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-2
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-3
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-4
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-5
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-6
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-7
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-8
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-9
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-10
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-11
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-12
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-13
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-14
-    title:
-  - image_path2: /img/workshops/plymouth/workshops-plymouth-15
-    title:
-hasvideo3: true
-video_embed3: https://www.youtube.com/embed/pIopa8nbe3s    
-hasgallery3: true    
-gallerytitle3: Budapest Workshops @Fab Lab Budapest
+  - image_path: 
+    title: 
+  - image_path: 
+    title: 
+hasgallery2: false        
+gallerytitle2: 
+  - image_path2: 
+    title: 
+  - image_path2: 
+    title: 
+  - image_path2: 
+    title: 
+hasgallery3: false    
+gallerytitle3:  
 images3:
-  - image_path3: /img/workshops/budapest/workshops-budapest-1
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-2
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-3
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-4
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-5
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-6
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-7
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-8
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-9
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-10
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-11
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-12
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-13
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-14
-    title:
-  - image_path3: /img/workshops/budapest/workshops-budapest-15
-    title:    
-hasvideo4: true
-video_embed4: https://www.youtube.com/embed/u8hV8oeY3Lw
-hasgallery4: true    
-gallerytitle4: Paris Workshops @ENSCI   
-images4:
-  - image_path4: /img/workshops/paris/workshops-paris-1
-    title:
-  - image_path4: /img/workshops/paris/workshops-paris-2
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-3
-    title:   
-  - image_path4: /img/workshops/paris/workshops-paris-4
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-5
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-6
-    title:   
-  - image_path4: /img/workshops/paris/workshops-paris-7
-    title:
-  - image_path4: /img/workshops/paris/workshops-paris-8
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-9
-    title:   
-  - image_path4: /img/workshops/paris/workshops-paris-10
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-11
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-12
-    title:  
-  - image_path4: /img/workshops/paris/workshops-paris-13
-    title:
-  - image_path4: /img/workshops/paris/workshops-paris-14
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-15
-    title:   
-  - image_path4: /img/workshops/paris/workshops-paris-16
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-17
-    title: 
-  - image_path4: /img/workshops/paris/workshops-paris-18
-    title:  
-
-hasvideo5: true
-video_embed5: https://www.youtube.com/embed/zLBzvL5Td4A
-hasgallery5: true    
-gallerytitle5: Amsterdam Workshop @Fab Lab Amsterdam  
-images5:
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-1
-    title:  
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-2
-    title:    
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-3
-    title: 
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-4
-    title: 
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-5
-    title: 
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-6
-    title: 
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-8
-    title: 
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-9
-    title:
-  - image_path5: /img/workshops/amsterdam/workshops-amsterdam-10
-    title:
+  - image_path3: 
+  - image_path3: 
+  - image_path3:    
 
 ---
 
 The Made@EU project also consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam.
 
-{% include photo-gallery-workshops.html %}
+{% include mosaic-workshops.html %}
 
-These workshops are designed to accomplish the following goals:  
+<br>
+<br>
 
-• To directly impact the bridging of the “digital divide”;
-
-• To foster and curate the creation of products and projects which clearly represent theobjectives of the Made@EU project;
-
-• To test the educational contents being developed for the platform;
-
-• To create a pool of participants from which the participants of the residency program can be selected;
-
-• To promote the Made@EU project and online platform;
-
-The target audience for these workshops are all members from the European creative sectors such as product designers, fashion designers, craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.
+These workshops are designed to impact directly the bridging of the “digital divide”, fostering and curating the creation of products and projects which clearly represent the spirit of the Made@EU project.They are directed at all members from the European creative sectors such as product designers, fashion designers and craftspeople such as potters, metal smiths, glassmakers, woodworkers, ceramists and mixed media artists.
 
 The Workshops are based on a 5 day BootCamp model developed by the FabLab Network and involve both theoretic and practical instruction centred around the following digital fabrication tools:
 
@@ -216,7 +62,7 @@ The Workshops are based on a 5 day BootCamp model developed by the FabLab Networ
 
 • Vinyl Cutting
 
-Participants not only receive theoretic instruction on each process, but also take an active role and acquire hands on experience in the use of all equipment. Aspects such as maintenance, safety and emergency procedures are also covered.
+Participants not only receive theoretic instruction on each process, but also take an active role and acquire hands on experience in the use of all equipment. 
 
 The workshops are taught by one local instructor and one instructor from one of the partner institutions order to promote the cross flow of knowledge between experts from the different partners.
 
