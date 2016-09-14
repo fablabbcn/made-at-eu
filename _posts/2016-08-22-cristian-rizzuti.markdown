@@ -1,7 +1,7 @@
 ---
 title: Cristian Rizzuti
 showdescription: true
-description: Multimemedia artist
+description: Multimedia artist
 project: Elastica wearable and performance
 showlocation: true
 location: Fab Lab Barcelona
