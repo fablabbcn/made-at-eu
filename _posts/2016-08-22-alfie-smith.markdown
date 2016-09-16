@@ -54,7 +54,7 @@ Alfie Smith's aim is to refine and perfect the creation of *pâte de verre* piec
 
 He tries to particularly focus on the firing techniques which have been an issue for other artists that have attempted this technique. It is a very new process and could potentially create a refined form of glassworking. The residency allowed Smith to create a range of tests and final pieces using a *pâte de verre*  paste as a medium in a delta 3D printer. He hopes that the research gained from this practice can be submitted to the crafts council, expanding the knowledge of digital crafts in glass making.
 
-Smith's focus is to use traditional techniques to aid the printing and firing of the pieces.Research on the recipe of *pâte de verre* requires traditional techniques to create an ideal recipe for an effective paste.
+Smith's focus is to use traditional techniques to aid the printing and firing of the pieces. Research on the recipe of *pâte de verre* requires traditional techniques to create an ideal recipe for an effective paste.
 
 Smith makes use of the digital tools and processes to improve and modify the delta printer to create a more effective machine. 
 
