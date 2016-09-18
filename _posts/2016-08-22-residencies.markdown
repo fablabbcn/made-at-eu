@@ -7,8 +7,8 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /residencies
-hasvideo: true
-video_embed: https://player.vimeo.com/video/133676785?color=ff9933
+hasvideo: false
+video_embed: 
 hasmosaic: true  
 images:
   - title: Ricardo O'Nascimento  
