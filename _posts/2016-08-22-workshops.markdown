@@ -9,35 +9,32 @@ thumbnail:
 permalink: /workshops
 hasvideo: false
 video_embed: 
-hasgallery1: false   
-gallerytitle: 
+hasmosaic: true  
 images:
-  - image_path: 
-    title: 
-  - image_path: 
-    title: 
-  - image_path: 
-    title: 
-hasgallery2: false        
-gallerytitle2: 
-  - image_path2: 
-    title: 
-  - image_path2: 
-    title: 
-  - image_path2: 
-    title: 
-hasgallery3: false    
-gallerytitle3:  
-images3:
-  - image_path3: 
-  - image_path3: 
-  - image_path3:    
+  - image_path: /img/workshops/barcelona/workshops-barcelona-1-thumb.jpg
+    title: Barcelona/Valldaura
+    url: /workshops-bcn
+  - image_path: /img/workshops/paris/workshops-paris-1-thumb.jpg
+    title: Paris
+    url: /workshops-par
+  - image_path: /img/workshops/plymouth/workshops-plymouth-1-thumb.jpg
+    title: Plymouth
+    url: /workshops-ply
+  - image_path: /img/workshops/budapest/workshops-budapest-1-thumb.jpg 
+    title: Budapest
+    url: /workshops-bud
+  - image_path: /img/workshops/amsterdam/workshops-amsterdam-1-thumb.jpg
+    title: Amsterdam
+    url: /workshops-ams
+  - image_path: /img/mosaic/residencies-thumbnail.jpg
+    title: Also check out the residencies &#62;
+    url: /residencies
 
 ---
 
 The Made@EU project also consists of a series of 5 workshops in Barcelona, Paris, Plymouth, Budapest and Amsterdam.
 
-{% include mosaic-workshops.html %}
+{% include mosaic-pages.html %}
 
 <br>
 <br>
