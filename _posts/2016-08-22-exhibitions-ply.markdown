@@ -64,6 +64,18 @@ These exhibitions are directed not only to designers and members of the creative
 
 {% include photo-gallery.html %}
 
+‘Made@EU’ showcases the work of seven artists who have been working on residency at Plymouth College of Art in 2016.
+
+In an exhibition that includes sculpture, animated film, furniture and architectural models, The Gallery at Plymouth College of Arts presents the work of Adriana Ionascu, Alfie Smith, Jack West, Laura Martinez, Mark von Rosenstiel, Matthew Bush and Phil Cuttance.
+
+Selected artists are supported by five European institutions working in partnership on a project, funded by Creative Europe, that explores the relation of 3-D digital fabrication technologies to traditional art, craft and designer-maker processes.
+
+Participants initially joined the project via workshops in their home institutions. A series of residencies followed where artists have been given access to traditional and digital facilities, along with concentrated technical support.
+
+The emphasis has not been on producing finished objects so much as an exploration of technical and aesthetic possibilities.
+
+The show took place in The Gallery from Wednesday 31 August to Friday 9 September 2016.
+
 
 
 
