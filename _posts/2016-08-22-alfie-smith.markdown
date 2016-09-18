@@ -2,7 +2,7 @@
 title: Alfie Smith
 showdescription: true
 description: Artist
-project: Printing In Pate De Verre
+project: Printing In Pâte De Verre
 showlocation: true
 location: Plymouth College of Art 
 layout: posts
@@ -50,12 +50,13 @@ images3:
 {% include video.html %}
 {% include photo-gallery.html %}
 
-I aim to refine and perfect the creation of Pate De Verre pieces using a delta printer to create unique forms. Currently these pieces would be both sculptural and useful but this may change dependant on how my work at Wolverhampton University progresses. 
-This would particularly focus on the firing techniques which have been an issue for other artists that have attempted this technique. It is a very new process and could potentially create a refined form of glassworking. I intend to create a range of tests and final pieces using a pate de verre paste as a medium in a delta 3D printer. Also I hope that the research gained from this practice would be submitted to the crafts council, expanding the knowledge of digital crafts in glass making.
+Alfie Smith's aim is to refine and perfect the creation of *pâte de verre* pieces using a delta printer to create unique forms, that can be both sculptural and useful.
 
-I anticipate using traditional techniques to aid the printing and firing of the pieces. Also, research in to the recipe of Pate De Verre will require traditional techniques to create an ideal recipe for an effective paste.
+He tries to particularly focus on the firing techniques which have been an issue for other artists that have attempted this technique. It is a very new process and could potentially create a refined form of glassworking. The residency allowed Smith to create a range of tests and final pieces using a *pâte de verre*  paste as a medium in a delta 3D printer. He hopes that the research gained from this practice can be submitted to the crafts council, expanding the knowledge of digital crafts in glass making.
 
-I intend to use the digital tools and processes to improve and modify the delta printer to create a more effective machine. Using autodesk software to create relevant files ideal for printing the glass paste. Also, the processes may involve the introduction of supports and props to support the printing and firing of the pieces, this will involve the use of 3D printers or CAD-CAM machinery.
+Smith's focus is to use traditional techniques to aid the printing and firing of the pieces. Research on the recipe of *pâte de verre* requires traditional techniques to create an ideal recipe for an effective paste.
+
+Smith makes use of the digital tools and processes to improve and modify the delta printer to create a more effective machine. 
 
 <div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
  
