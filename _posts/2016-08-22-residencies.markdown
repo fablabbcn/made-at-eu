@@ -9,49 +9,49 @@ thumbnail:
 permalink: /residencies
 hasvideo: true
 video_embed: https://player.vimeo.com/video/133676785?color=ff9933
-hasgallery1: true   
-gallerytitle: Barcelona Residency @Fab Lab Barcelona
+hasmosaic: true  
 images:
-  - image_path: /img/residencies/barcelona/residencies-barcelona-nascimento
-    title: Batuque, piece by Ricardo O'Nascimento
-  - image_path: /img/residencies/barcelona/residencies-barcelona-rizzuti-2
-    title: Cristian Rizzuti
-  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol
-    title: Sculpture process by Ludovic Mallegol
-  - image_path: /img/residencies/barcelona/residencies-barcelona-mallegol-2
-    title: Sculpture process by Ludovic Mallegol
-  - image_path: /img/residencies/barcelona/residencies-barcelona-torre
-    title: Roman Torre 
-  - image_path: /img/residencies/barcelona/residencies-barcelona-annemie
-    title: Guerrilla Beehives by Annemie Maes 
-
-hasgallery2: true        
-gallerytitle2: Plymouth Residency @Plymouth College of Arts   
-images2:
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-west
-    title: Jack West 
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-smith
-    title: Alfie Smith
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-martinez
-    title: Adriana Martinez
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-ionascu
-    title: Adriana Ionascu
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-bush
-    title: Matthew Bush
-  - image_path2: /img/residencies/plymouth/residencies-plymouth-cuttance
-    title: Phil Cuttance  
-
-hasgallery3: false    
-gallerytitle3:  
-images3:
-  - image_path3: 
-  - image_path3: 
-  - image_path3:    
+  - title: Ricardo O'Nascimento  
+    url: /ricardo-o-nascimento 
+    image_path: /img/artists/onascimento/residencies-barcelona-nascimento-thumb.jpg 
+  - title: Annemie Maes 
+    url: /annemie-maes
+    image_path: /img/artists/maes/residencies-barcelona-maes-8-thumb.jpg
+  - title: Adriana Ionascu 
+    url: /adriana-ionascu 
+    image_path: /img/artists/ionascu/residencies-plymouth-ionascu-12-thumb.jpg
+  - title: Jack West
+    url: /jack-west
+    image_path: /img/artists/west/residencies-plymouth-west-5-thumb.jpg
+  - title: Ludovic Mallegol
+    url: /ludovic-mallegol
+    image_path: /img/artists/mallegol/residencies-barcelona-mallegol-5-thumb.jpg 
+  - title: Cristian Rizzuti
+    url: /cristian-rizzuti 
+    image_path: /img/artists/rizzuti/residencies-barcelona-rizzuti-6-thumb.jpg
+  - title: Laura Martinez
+    url: /laura-martinez 
+    image_path: /img/artists/martinez/residencies-plymouth-martinez-7-thumb.jpg
+  - title: Alfie Smith 
+    url: /alfie-smith 
+    image_path: /img/artists/smith/residencies-plymouth-smith-10-thumb.jpg
+  - title: Roman Torre 
+    image_path: /img/artists/torre/residencies-barcelona-torre-1.jpg 
+    url: /roman-torre
+  - title: Matthew Bush
+    url: /matthew-bush  
+    image_path: /img/artists/bush/residencies-plymouth-bush-7-thumb.jpg  
+  - title: Phil Cuttance
+    url: /phil-cuttance   
+    image_path: /img/artists/cuttance/residencies-plymouth-cuttance-1-thumb.jpg
+  - title: Mark von Rosenstiel 
+    url: /mark-von-rosenstiel 
+    image_path: /img/artists/rosenstiel/residencies-plymouth-rosenstiel-4-thumb.jpg
 ---
 
 One of the main goals of the Made@Eu Project is the creation of residency programmesfor creative professionals to develop projects that explore the integration of 3-D digital fabrication systems into their processes of design and production, to realize a new outcome. Residencies take place in Barcelona, Paris and Plymouth, facilitating cross-European mobility of creators and generating international opportunities for emerging talent.  
 
-{% include mosaic-artists.html %}
+{% include mosaic-pages.html %}
 
 <br>
 
