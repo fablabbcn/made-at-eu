@@ -2,7 +2,7 @@
 <div style="padding-top:0px; padding-bottom: 40px;">
 
 	{% if page.hasgallery1 == true %}
-		<h3 class="section-sub-subheading"> {{page.gallerytitle }} </h3>
+		<h3 class="section-sub-subheading"> {{ page.gallerytitle }} </h3>
 		<div class="row text-center" style="margin-right: 0px; margin-left: 0px; padding-bottom: 30px;">
 			{% for image in page.images %}
 				<a class="thumb" href="#" data-image-id="" data-toggle="modal" data-title="Image One" data-caption="Dummy text" data-image="{{ image.image_path }}.jpg" data-href="{{ image.image_path }}.jpg" data-target="#image-gallery">
