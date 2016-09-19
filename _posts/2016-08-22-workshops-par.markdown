@@ -7,8 +7,8 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /workshops-par
-hasvideo: false
-video_embed: 
+hasvideo: true
+video_embed: https://www.youtube.com/embed/u8hV8oeY3Lw
 hasgallery1: true   
 gallerytitle: Paris Workshop @ENSCI Les Ateliers  
 images:
@@ -59,6 +59,14 @@ The Made@EU project consists of a series of 5 workshops in Barcelona, Paris, Ply
 
 
 Paris' workshop takes place at ENSCI - Les Ateliers Fab Lab, an interdisciplinary, industrial design, graduate-level school in the heart of Paris. Founded in 1982, ENSCI-Les Ateliers is jointly governed by the Ministries of Culture and Industry. The School offers advanced study, consultancy and research in all aspects of contemporary design practice and now, after 30 years of its foundation, works around a Fablab to be in concordance with the importance of manufacturing and workshops in the process of creating and learning.
+
+Watch the interviews: 
+
+<!--<div class="videoWrapper"> --> 
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLeabwDwnzHDBjDyNNj7acAj7DNiPK32hD" frameborder="0" allowfullscreen></iframe>
+<!--</div>-->
+
+<br>
 
 #### For more info visit: [http://www.ensci.com/](http://www.ensci.com/)
 
