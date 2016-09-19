@@ -16,11 +16,24 @@ hasgallery1: true
 gallerytitle: 
 images:
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
+    title: 
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-3
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
+    title: 
   - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-2
-    title: Batuque, piece developed by Ricardo O'Nascimento on his residency @ Fab Lab Barcelona
+    title: 
+  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-4
+    title: 
+  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-5
+    title: 
+  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-6
+    title:   
+  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-7
+    title: 
+  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-9
+    title: 
+  - image_path: /img/artists/onascimento/residencies-barcelona-nascimento-8
+    title:                   
+
 hasgallery2: false       
 gallerytitle2:  
 images2:
