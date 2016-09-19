@@ -11,7 +11,7 @@ img:
 thumbnail: 
 permalink: /mark-von-rosenstiel
 hasvideo: true
-video_embed: https://www.youtube.com/embed/EyCpAPYZ4O4
+video_embed: https://www.youtube.com/embed/ECbXIFM7mOU
 hasgallery1: true   
 gallerytitle: 
 images:
