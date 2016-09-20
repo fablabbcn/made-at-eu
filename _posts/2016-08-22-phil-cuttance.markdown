@@ -62,7 +62,7 @@ He claims he is wary of digital technology, but has been excited and impressed w
 
 <div style="border-top: 3px solid; border-color: black; margin: 50px 0px 0px 0px; padding-top: 50px; padding-bottom: 40px; font-size: 17px; line-height: 27px;">
 
-<b>Phil Cuttance is a designer/maker</b> based in a shared studio in London. He moved to London six years ago from New Zealand where he had worked as a furniture designer for years, and set up his studio full time on arrival. He makes by hand most of the objects he produces in his studio. Cuttance occasionally collaborates with other makers/design brands and has worked with many materials and processes, but is currently spending the majority of his time casting objects using his *faceture process*, his most successful project to date.
+<b>Phil Cuttance is a designer/maker</b> based in a shared studio in London. He moved to London six years ago from New Zealand where he had worked as a furniture designer for years, and set up his studio full time on arrival. He makes by hand most of the objects he produces in his studio. Cuttance occasionally collaborates with other makers/design brands and has worked with many materials and processes, but is currently spending the majority of his time casting objects using his <i>faceture process</i>, his most successful project to date.
 </div>
 
 #### For more info visit: [www.philcuttance.com](www.philcuttance.com)
