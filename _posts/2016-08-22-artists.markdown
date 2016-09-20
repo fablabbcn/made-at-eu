@@ -35,9 +35,6 @@ images:
   - title: Alfie Smith 
     url: /alfie-smith 
     image_path: /img/artists/smith/residencies-plymouth-smith-10-thumb.jpg
-  - title: Roman Torre 
-    image_path: /img/artists/torre/residencies-barcelona-torre-1.jpg 
-    url: /roman-torre
   - title: Matthew Bush
     url: /matthew-bush  
     image_path: /img/artists/bush/residencies-plymouth-bush-7-thumb.jpg  
@@ -46,7 +43,11 @@ images:
     image_path: /img/artists/cuttance/residencies-plymouth-cuttance-1-thumb.jpg
   - title: Mark von Rosenstiel 
     url: /mark-von-rosenstiel 
-    image_path: /img/artists/rosenstiel/residencies-plymouth-rosenstiel-4-thumb.jpg             
+    image_path: /img/artists/rosenstiel/residencies-plymouth-rosenstiel-4-thumb.jpg    
+  - title: Also check out the workshops &#62;
+    url: /workshops   
+    image_path: /img/mosaic/workshops.png
+             
                                      
 
 ---

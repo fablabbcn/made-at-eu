@@ -35,9 +35,6 @@ images:
   - title: Alfie Smith 
     url: /alfie-smith 
     image_path: /img/artists/smith/residencies-plymouth-smith-10-thumb.jpg
-  - title: Roman Torre 
-    image_path: /img/artists/torre/residencies-barcelona-torre-1.jpg 
-    url: /roman-torre
   - title: Matthew Bush
     url: /matthew-bush  
     image_path: /img/artists/bush/residencies-plymouth-bush-7-thumb.jpg  
@@ -47,6 +44,10 @@ images:
   - title: Mark von Rosenstiel 
     url: /mark-von-rosenstiel 
     image_path: /img/artists/rosenstiel/residencies-plymouth-rosenstiel-4-thumb.jpg
+  - title: Also check out the workshops &#62;
+    url: /workshops   
+    image_path: /img/mosaic/workshops.png
+                 
 ---
 
 One of the main goals of the Made@Eu Project is the creation of residency programmesfor creative professionals to develop projects that explore the integration of 3-D digital fabrication systems into their processes of design and production, to realize a new outcome. Residencies take place in Barcelona, Paris and Plymouth, facilitating cross-European mobility of creators and generating international opportunities for emerging talent.  
