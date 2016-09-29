@@ -10,7 +10,7 @@ date: 2014-07-18
 img: residencies.jpg
 thumbnail: img/residencies/barcelona/residencies_barcelona_nascimento_thumb.png
 permalink: /ricardo-o-nascimento
-video_embed: https://www.youtube.com/embed/Yqmento
+video_embed: https://www.youtube.com/embed/Yqdv4f4JilU
 hasvideo: truedv4f4JilU
 hasgallery1: true   
 gallerytitle: 
