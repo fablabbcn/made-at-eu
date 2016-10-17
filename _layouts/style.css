@@ -358,6 +358,7 @@ fieldset[disabled] .btn-xl.active {
     border-color: #{{ site.color.secondary }};
     background-color: #{{ site.color.secondary }};
     border-radius: 0px;
+    margin-right: 0px;
 }
 
 .navbar-default .navbar-toggle .icon-bar {
