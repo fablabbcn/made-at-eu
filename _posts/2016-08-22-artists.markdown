@@ -41,13 +41,13 @@ images:
   - title: Phil Cuttance
     url: /phil-cuttance   
     image_path: /img/artists/cuttance/residencies-plymouth-cuttance-1-thumb.jpg
-  - title: Mark von Rosenstiel 
-    url: /mark-von-rosenstiel 
-    image_path: /img/artists/rosenstiel/residencies-plymouth-rosenstiel-4-thumb.jpg    
-  - title: Also check out the workshops &#62;
-    url: /workshops   
-    image_path: /img/mosaic/workshops.png
-             
+  - title: DisOrienta 
+    url: /disorienta
+    image_path: /img/artists/disorienta/residencies-paris-EMA-18-thumb.jpg 
+  - title: Mattia Bernini
+    url: /mattia-bernini
+    image_path: /img/artists/bernini/residencies-paris-precious-plastic-10-thumb.jpg 
+  
                                      
 
 ---
