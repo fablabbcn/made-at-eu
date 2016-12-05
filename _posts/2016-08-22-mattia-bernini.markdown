@@ -10,8 +10,8 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /mattia-bernini
-hasvideo: false
-video_embed: 
+hasvideo: true
+video_embed: https://www.youtube.com/embed/dq0jbGfCPdc
 hasgallery1: true   
 gallerytitle: 
 images:  

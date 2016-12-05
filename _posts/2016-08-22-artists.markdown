@@ -38,15 +38,19 @@ images:
   - title: Matthew Bush
     url: /matthew-bush  
     image_path: /img/artists/bush/residencies-plymouth-bush-7-thumb.jpg  
+  - title: Mattia Bernini
+    url: /mattia-bernini
+    image_path: /img/artists/bernini/residencies-paris-precious-plastic-10-thumb.jpg 
   - title: Phil Cuttance
     url: /phil-cuttance   
     image_path: /img/artists/cuttance/residencies-plymouth-cuttance-1-thumb.jpg
   - title: DisOrienta 
     url: /disorienta
-    image_path: /img/artists/disorienta/residencies-paris-EMA-18-thumb.jpg 
-  - title: Mattia Bernini
-    url: /mattia-bernini
-    image_path: /img/artists/bernini/residencies-paris-precious-plastic-10-thumb.jpg 
+    image_path: /img/artists/disorienta/residencies-paris-EMA-21-thumb.jpg 
+  - title: Farming Soul
+    url: /farming-soul
+    image_path: /img/artists/farmingsoul/residencies-paris-farmingsoul-0-thumb.png
+
   
                                      
 

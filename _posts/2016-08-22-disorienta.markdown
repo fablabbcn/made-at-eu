@@ -10,8 +10,8 @@ date: 2014-07-18
 img: 
 thumbnail: 
 permalink: /disorienta
-hasvideo: false
-video_embed: 
+hasvideo: true
+video_embed: https://www.youtube.com/embed/-yIfoXAHruI
 hasgallery1: true   
 gallerytitle: 
 images:  
