@@ -52,9 +52,9 @@ images:
 
 E-MA is a live choreographic plastic piece.
 
-It is the extension of DisOrienta's research project at the Kujoyama Villa in Japan on the subject of experiencing the void and the silence between things and beings, like the actio n of breathing.
+It is the extension of DisOrienta's research project at the Kujoyama Villa in Japan on the subject of experiencing the void and the silence between things and beings, like the action of breathing.
 
-On this new research project, space-time consists of a digital device composed of polyheadra known as Dürer, equipped with a behaviour. The scene becomes a microcosm that refers to the contemporary world, the interaction between the dancer and the polyhedron being a way to model a vision of man and his environment from a holistic perspective.
+On this new research project, space-time consists of a digital device composed of polyheadra known as Dürer, equipped with a behaviour. The scene becomes a microcosm that refers to the contemporary world: the interaction between the dancer and the polyhedron being a way to model a vision of man and his environment from a holistic perspective.
 
 The polyhedron, moved and controlled by digital algorithms, interacts with the flesh and the instinct of the dancer.
 
