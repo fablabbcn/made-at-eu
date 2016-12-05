@@ -1,5 +1,5 @@
 ---
-title: Collectif Farming Soul / Jean Pierre Comte et Mathieu Grosche
+title: Collectif Farming Soul - Jean Pierre Comte et Mathieu Grosche
 showdescription: true
 description: Technician, Designer
 project: Système Bicitractor
