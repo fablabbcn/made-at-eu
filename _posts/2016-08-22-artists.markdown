@@ -50,7 +50,9 @@ images:
   - title: Farming Soul
     url: /farming-soul
     image_path: /img/artists/farmingsoul/residencies-paris-farmingsoul-0-thumb.png
-
+  - title: Roman Torre
+    url: /roman-torre
+    image_path: /img/artists/torre/residencies-barcelona-torre-1-thumb.jpg
   
                                      
 
