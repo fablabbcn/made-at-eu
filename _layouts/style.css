@@ -1392,6 +1392,52 @@ body {
 }
 
 
+/*Cookie message css overwrites*/
+
+.alert {
+    border-radius: 0px;
+}
+
+.alert-success {
+    z-index: 3000;
+    color: #ffffff;
+    background-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.secondary }};
+    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+}
+
+.alert-success a, a:hover, a:focus {
+    text-decoration: none;
+    color: #ffffff;
+    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-size: 12px;
+    cursor: pointer;
+}
+
+.alert-success a:hover, 
+.alert-success a:focus {
+    text-decoration: underline;
+}
+
+.btn-success {
+    background-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.secondary }};
+    text-decoration: underline;
+}
+
+.btn-success:hover, 
+.btn-success:focus, 
+.btn-success:active {
+    background-color: #{{ site.color.secondary }};
+    border-color: #{{ site.color.secondary }};
+    color: #d6cece;
+    text-decoration: underline;
+}
+
+.btn-xs {
+    font-size: 10px;
+}
 
 
 
