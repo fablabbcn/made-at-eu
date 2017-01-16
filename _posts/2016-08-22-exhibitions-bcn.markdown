@@ -51,7 +51,7 @@ images2:
   - image_path2: 
 
 hasgallery3: false  
-gallerytitle3: Paris Workshops @ENSCI  
+gallerytitle3: 
 images3:
   - image_path3: 
   - image_path3: 
@@ -64,7 +64,7 @@ One of the priorities of the Made@Eu project is the organisation of three exhibi
 
 These exhibitions are directed not only to designers and members of the creative community but also to the general public in order to direct interest of consumers to Made@EU online platform and to European creative works in general.
 
-The Barcelona exhibition is organised by IAAC, showcasing projects resulting from all residencies.Paris’ and Plymouth’s exhibitions are coordinated by ENSCI and PCA respectively, and take place at their facilities.
+The Barcelona exhibition was organised by IAAC, showcasing projects resulting from all residencies. Paris’ and Plymouth’s exhibitions are coordinated by ENSCI and PCA respectively, and take place at their facilities.
 
 
 

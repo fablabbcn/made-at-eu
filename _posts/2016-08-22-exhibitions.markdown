@@ -17,9 +17,9 @@ images:
   - image_path: /img/exhibitions/plymouth/exhibitions-plymouth-4-thumb.jpg
     title: Plymouth PCA
     url: /exhibitions-ply
-  - image_path: /img/mosaic/residencies-thumbnail.jpg
-    title: Also check out the residencies &#62;
-    url: /residencies
+  - image_path: /img/exhibitions/paris/exhibitions-paris-2-thumb.jpg
+    title: Paris ENSCI - Les Ateliers
+    url: /exhibitions-par
   
 ---
 

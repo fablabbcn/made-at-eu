@@ -29,8 +29,15 @@ body {
 
 .text {
    position: relative; 
-   padding-right: 5%; 
-   padding-left: 5%;
+   padding-right: 0%; 
+   padding-left: 0%;
+}
+
+@media(min-width:767px) {
+    .text {
+        padding-right: 5%; 
+        padding-left: 5%;
+    }    
 }
   
 .text-muted {
@@ -52,11 +59,13 @@ p {
 }
 
 p.large {
-    font-size: 25px;
+    font-size: 20px;
 }
 
-.text p {
-    font-size: 25px;
+@media(min-width:767px) {
+    p.large {
+        font-size: 25px;
+    }
 }
 
 a,
@@ -1439,7 +1448,9 @@ body {
     font-size: 10px;
 }
 
-
+.alert-dismissable, .alert-dismissible { 
+    padding-right: 15px;
+    }
 
 
 
