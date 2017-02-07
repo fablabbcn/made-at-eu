@@ -1416,7 +1416,7 @@ body {
     font-size: 12px;
 }
 
-.alert-success a, a:hover, a:focus {
+.alert-success a, .alert-sucess a:hover, .alert-sucess a:focus {
     text-decoration: none;
     color: #ffffff;
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
