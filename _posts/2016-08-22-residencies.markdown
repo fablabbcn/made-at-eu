@@ -44,6 +44,15 @@ images:
   - title: Mark von Rosenstiel 
     url: /mark-von-rosenstiel 
     image_path: /img/artists/rosenstiel/residencies-plymouth-rosenstiel-4-thumb.jpg
+  - title: Farming Soul
+    url: /farming-soul
+    image_path: /img/artists/farmingsoul/residencies-paris-farmingsoul-0-thumb.png
+  - title: Mattia Bernini
+    url: /mattia-bernini
+    image_path: /img/artists/bernini/residencies-paris-precious-plastic-10-thumb.jpg
+  - title: DisOrienta
+    url: /disorienta
+    image_path: /img/artists/disorienta/residencies-paris-EMA-21-thumb.jpg
   - title: Also check out the workshops &#62;
     url: /workshops   
     image_path: /img/mosaic/workshops.png
