@@ -1061,6 +1061,9 @@ footer {
     padding: 25px 0;
     text-align: center;
     background-color: #000000;
+}
+
+.footer {
     padding-bottom: 50px;
 }
 
