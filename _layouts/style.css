@@ -1287,10 +1287,14 @@ body {
 }
 
 /*--> modal bootstrap defaults overwritten css -->*/ 
+.modal-dialog {
+    width: 70%;
+}
+
 
 @media (min-width: 768px) {
-   #image-gallery.modal-dialog {
-        width: 600px;
+    .modal-dialog {
+        width: 70%;
     }
 }
 
