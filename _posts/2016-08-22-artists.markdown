@@ -1,5 +1,5 @@
 ---
-title: Made@Eu Artists
+title: Made@Eu Creators
 showdescription: false
 description: 
 layout: posts
