@@ -454,7 +454,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url(../img/slideshow/0.jpg);
+    /*background-image: url(../img/slideshow/0.jpg);*/
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
