@@ -1251,7 +1251,7 @@ ul.social-buttons li a:active {
 
 ::-moz-selection {
     text-shadow: none;
-    /*background: #{{ site.color.primary }};*/
+    background: #{{ site.color.primary }};
 }
 
 ::selection {
