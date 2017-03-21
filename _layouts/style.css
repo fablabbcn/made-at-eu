@@ -101,6 +101,12 @@ a.active {
      text-decoration: underline;
 }
 
+#content-mosaic a{
+    text-decoration: none;
+    color: #000000;
+}
+
+
 /*Grow link when hover*/
 
 .hvr-grow {
@@ -526,6 +532,29 @@ section {
    padding: 150px 0px 0px 0px;
 }
 
+
+section#what {
+    padding: 120px 0px 0px 0px;
+}
+
+section#promo{
+    padding: 130px 0px 0px 0px;
+}
+
+section#content-mosaic {
+    padding: 50px 0px 0px 0px;
+}
+
+
+section#what-full {
+    padding: 100px 0px 0px 0px;
+}
+
+section#partners {
+    padding: 50px 0px 0px 0px;
+}
+
+
 h1.section-heading {
     margin-bottom: 0px;
     font-size: 40px;
@@ -572,27 +601,6 @@ h4.section-small-highlight{
     font-size: 18px;
     text-align: left;
     text-transform: none;
-}
-
-section#what {
-    padding: 120px 0px 0px 0px;
-}
-
-section#promo{
-    padding: 130px 0px 0px 0px;
-}
-
-section#content-mosaic {
-    padding: 50px 0px 0px 0px;
-}
-
-
-section#what-full {
-    padding: 100px 0px 0px 0px;
-}
-
-section#partners {
-    padding: 50px 0px 0px 0px;
 }
 
 /*---CONTENT MOSAIC SECTION--*/ 
@@ -649,11 +657,6 @@ section#partners {
     }
 }
 
-
-.row a{
-    text-decoration: none;
-    color: #000000;
-    }
 
 .tweet a {
      text-decoration: underline;
