@@ -187,6 +187,11 @@ black border and white background*/
     float:right;
 }
 
+.right-align-absolute {
+    position: absolute;
+    right: 0;
+}
+
 .btn-primary:hover,
 .btn-primary:focus,
 .btn-primary:active,
