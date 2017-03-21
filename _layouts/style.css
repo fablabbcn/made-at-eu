@@ -154,7 +154,7 @@ filled with th primary color defined in config*/
 /*Alternative button, a bolder take to highlight special buttons
 black border and white background*/
 .btn-primary.white { 
-    background-color: #ffffff;
+    background-color: transparent;
     border: 2px solid;
     border-color: #{{ site.color.secondary }};
     color: #{{ site.color.secondary }};
