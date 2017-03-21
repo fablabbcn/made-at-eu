@@ -27,23 +27,24 @@ body {
 
 }
 
-.text {
-   position: relative; 
-   padding-right: 0%; 
-   padding-left: 0%;
+
+.container {
+        width: 100%;
+    }
 }
+
 
 @media (min-width: 768px){
     .container {
-        width: 850px;
+        width: 100%;
     }
 }
-@media(min-width:767px) {
-    .text {
-        padding-right: 5%; 
-        padding-left: 5%;
-    }    
+
+
+.row{
+    padding: 0px 0px;
 }
+
   
 .text-muted {
     color: #777;
@@ -185,8 +186,7 @@ black border and white background*/
 /* Right align button option */
 
 .right-align {
-    position: absolute;
-    right: 5% ;
+    float:right;
 }
 
 .btn-primary:hover,
@@ -569,19 +569,24 @@ h4.section-small-highlight{
     text-transform: none;
 }
 
-/*---WHAT SECTION--*/ 
-
 section#what {
-    padding: 190px 0px 0px 0px;
+    padding: 120px 0px 0px 0px;
 }
-
-
-
-/*---CONTENT MOSAIC SECTION--*/ 
 
 section#content-mosaic {
+    padding: 50px 0px 0px 0px;
+}
+
+
+section#what-full {
     padding: 100px 0px 0px 0px;
 }
+
+section#partners {
+    padding: 50px 0px 0px 0px;
+}
+
+/*---CONTENT MOSAIC SECTION--*/ 
 
 .mosaic-title{
     font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
@@ -636,6 +641,25 @@ section#content-mosaic {
     text-align: right;
 }
 
+.title-promo{
+    font-family: '{{ site.fonts.primary }}',"Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    width:100%;  
+    padding: 50px 40px 0px 40px;
+    text-align: left;
+    background-color: #f9f9f9;
+    height: 250px;
+    margin-bottom: 30px;
+}
+
+@media(min-width:767px) {
+    .title-promo {
+        margin-bottom: 0px;
+    }
+}
+
+
 .row a{
     text-decoration: none;
     color: #000000;
@@ -668,12 +692,6 @@ section#content-mosaic {
 }
 
 
-
-/*---WHAT-FULL SECTION--*/ 
-
-section#what-full {
-    padding: 190px 0px 0px 0px;
-}
 
 
 /*PORTFOLIO SECTION --*/ /* NOT IN USE*/
